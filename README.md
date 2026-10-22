@@ -15,14 +15,6 @@ A runnable portfolio project tailored to a **Custom & Trade / International Data
 - **Outputs:** cleaned CSV, summary KPI CSV, exception worklist CSV.
 
 ## Quick start (Windows)
-
-1. Extract the ZIP.
-2. Install **Python 3.10 or newer** from https://www.python.org/downloads/ and enable “Add Python to PATH”.
-3. Double-click `run.bat`.
-4. The first run creates a virtual environment, installs dependencies, runs ETL, and launches the dashboard in your browser.
-
-If Windows blocks the script, open PowerShell in the project folder and run:
-
 ```powershell
 py -3 -m venv .venv
 .\.venv\Scripts\Activate.ps1
