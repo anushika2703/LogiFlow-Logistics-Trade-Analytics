@@ -76,11 +76,4 @@ LogiFlow_Volvo_Data_Pipeline/
 └── reports/                 # summary KPI + exception worklist
 ```
 
-## Resume-ready description (only after you run and verify it)
 
-**LogiFlow — Logistics & Trade Operations Analytics | Python, Pandas, SQL, SQLite, Streamlit, Plotly**
-- Built an end-to-end ETL pipeline to ingest, validate, clean, and transform shipment records, including duplicate detection, missing-value handling, and data-quality auditing.
-- Modeled shipment delays, customs/documentation exceptions, route performance, and illustrative duty exposure; loaded curated records into SQLite for analysis.
-- Developed an interactive dashboard to track shipment volume, on-time performance, transport-mode trends, and exception worklists, with CSV export for operational follow-up.
-
-Only claim features and tools you have personally run and can explain in an interview. Do not describe this as production-grade customs software or claim experience with Volvo systems.
