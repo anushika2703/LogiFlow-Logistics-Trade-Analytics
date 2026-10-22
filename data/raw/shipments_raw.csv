@@ -1,0 +1,1201 @@
+shipment_id,shipment_date,origin_country,destination_country,transport_mode,product_category,customs_status,declared_value_usd,weight_kg,planned_transit_days,actual_transit_days,documents_complete,duty_rate,supplier_id
+SHP-00001,2026-07-28,India,Mexico,Air,Automotive Parts,Cleared,16366.16,337.68,2.0,3,True,0.1,SUP-058
+SHP-00002,2026-08-26,Poland,United States,Road,Machinery,Cleared,3842.4,376.68,13.0,14,True,0.0,SUP-060
+SHP-00003,2026-06-11,China,Mexico,Air,Machinery,Cleared,1614.48,1285.48,16.0,15,True,0.075,SUP-034
+SHP-00004,2026-06-01,United States,Poland,Road,Machinery,Cleared,3371.54,141.31,13.0,15,True,0.125,SUP-038
+SHP-00005,2026-08-16,United States,China,Road,Packaging,Cleared,-250.0,202.67,9.0,11,True,0.0,SUP-018
+SHP-00006,2026-07-04,Mexico,India,Air,Automotive Parts,Cleared,12177.1,63.22,18.0,20,True,0.1,SUP-034
+SHP-00007,2026-09-05,India,United States,Ocean,Electronics,Cleared,4833.07,186.35,9.0,7,True,0.0,SUP-019
+SHP-00008,2026-05-22,China,Poland,Ocean,Packaging,Cleared,19288.55,49.95,16.0,16,True,0.125,SUP-032
+SHP-00009,2026-05-17,Germany,India,Ocean,Packaging,Cleared,11336.14,467.71,11.0,11,True,0.1,SUP-011
+SHP-00010,2026-08-03,India,Mexico,Ocean,Chemicals,Cleared,4785.75,336.97,2.0,1,True,0.125,SUP-046
+SHP-00011,2026-07-05,United States,China,Ocean,Packaging,Cleared,5213.34,167.83,12.0,12,True,0.125,SUP-019
+SHP-00012,2026-09-04,Mexico,Poland,Ocean,Electronics,Cleared,7942.0,,2.0,2,True,0.025,SUP-055
+SHP-00013,2026-07-26,Poland,United States,Road,Chemicals,Cleared,2959.86,474.12,20.0,22,True,0.05,SUP-039
+SHP-00014,2026-06-28,Poland,Mexico,Air,Electronics,Cleared,6025.94,71.11,14.0,14,True,0.1,SUP-068
+SHP-00015,2026-05-24,Poland,India,Road,Automotive Parts,Cleared,7802.79,271.56,9.0,12,True,0.025,SUP-017
+SHP-00016,2026-05-25,Poland,India,Road,Automotive Parts,Cleared,1430.93,445.64,11.0,12,True,0.025,SUP-021
+SHP-00017,2026-09-09,United States,India,Road,Packaging,Documentation Hold,5110.63,37.25,14.0,16,False,0.0,SUP-019
+SHP-00018,2026-06-05,India,Poland,Ocean,Automotive Parts,Cleared,4639.69,439.19,7.0,7,True,0.125,SUP-048
+SHP-00019,2026-07-25,Poland,India,Ocean,Machinery,Pending Review,14383.8,41.51,7.0,7,True,0.025,SUP-009
+SHP-00019,2026-09-20,United States,India,Rail,Chemicals,Cleared,1251.6,196.84,10.0,11,True,0.05,SUP-052
+SHP-00021,2026-10-04,United States,China,Rail,Electronics,Pending Review,4340.39,69.17,7.0,12,True,0.05,SUP-062
+SHP-00022,2026-06-13,Sweden,United States,Ocean,Electronics,Cleared,3985.86,926.34,17.0,17,True,0.05,SUP-051
+SHP-00023,2026-05-15,Germany,Mexico,Road,Packaging,Cleared,13576.02,69.61,4.0,5,True,0.1,SUP-011
+SHP-00024,2026-09-12,Mexico,China,Ocean,Chemicals,Cleared,5784.78,42.51,18.0,19,True,0.125,SUP-037
+SHP-00025,2026-08-27,Poland,Sweden,Ocean,Packaging,Cleared,27630.64,252.99,,10,True,0.075,SUP-041
+SHP-00026,2026-06-24,China,Mexico,Ocean,Chemicals,Cleared,10539.46,146.39,13.0,11,True,0.125,SUP-030
+SHP-00027,2026-08-10,Sweden,India,Road,Packaging,Cleared,4235.73,49.18,5.0,6,True,0.0,SUP-035
+SHP-00028,2026-05-29,Poland,Mexico,Road,Chemicals,Cleared,7359.22,374.58,9.0,9,True,0.125,SUP-058
+SHP-00029,2026-08-30,United States,Germany,Rail,Electronics,Inspection,4442.81,30.22,17.0,22,True,0.0,SUP-063
+SHP-00030,2026-09-03,United States,Sweden,Road,Packaging,Cleared,12462.59,78.55,7.0,7,True,0.0,SUP-023
+SHP-00031,2026-06-18,United States,Poland,Road,Packaging,Pending Review,1934.55,124.56,4.0,4,True,0.0,SUP-025
+SHP-00032,2026-07-19,Germany,Poland,Air,Automotive Parts,Pending Review,2980.54,493.85,12.0,20,True,0.025,SUP-016
+SHP-00033,2026-06-25,India,Mexico,Road,Packaging,Cleared,8842.6,808.73,5.0,5,True,0.125,SUP-031
+SHP-00034,2026-05-01,United States,Poland,Road,Chemicals,Cleared,17015.72,666.99,8.0,7,True,0.025,SUP-041
+SHP-00035,2026-05-18,Mexico,China,Rail,Packaging,Documentation Hold,923.64,189.94,11.0,11,False,0.1,SUP-054
+SHP-00036,2026-10-15,India,Sweden,Ocean,Chemicals,Cleared,19308.5,19.54,13.0,12,True,0.05,SUP-021
+SHP-00037,2026-07-17,Mexico,India,Rail,Packaging,Cleared,5328.82,327.29,14.0,11,True,0.0,SUP-017
+SHP-00038,2026-05-22,Poland,India,Road,Machinery,Cleared,1210.4,963.5,15.0,15,True,0.05,SUP-003
+SHP-00039,2026-05-03,Germany,Sweden,Road,Automotive Parts,Cleared,468.03,760.36,18.0,20,True,0.025,SUP-008
+SHP-00040,2026-06-28,China,India,Road,Automotive Parts,Cleared,1636.02,351.76,3.0,5,True,0.025,SUP-004
+SHP-00041,2026-10-19,Germany,United States,Air,Machinery,Cleared,5903.21,67.39,9.0,7,True,0.075,SUP-016
+SHP-00042,2026-07-04,Poland,India,Road,Machinery,Pending Review,5675.91,130.93,2.0,3,False,0.1,SUP-053
+SHP-00043,2026-10-22,China,Mexico,Ocean,Electronics,Cleared,10282.72,1531.21,2.0,1,True,0.075,SUP-059
+SHP-00044,2026-07-23,Sweden,United States,Rail,Automotive Parts,Inspection,3762.86,53.69,6.0,11,True,0.025,SUP-073
+SHP-00045,2026-09-10,India,Mexico,Air,Automotive Parts,Cleared,2340.61,70.26,13.0,12,True,0.1,SUP-041
+SHP-00046,2026-09-14,Mexico,India,Road,Electronics,Documentation Hold,4225.43,568.24,19.0,20,False,0.1,SUP-035
+SHP-00047,2026-05-01,United States,Mexico,Road,Chemicals,Cleared,6176.88,143.86,17.0,17,True,0.025,SUP-068
+SHP-00048,2026-04-27,Mexico,United States,Road,Automotive Parts,Cleared,7303.85,67.91,14.0,15,True,0.125,SUP-012
+SHP-00049,2026-10-09,China,Sweden,Road,Electronics,Documentation Hold,3069.32,1020.42,17.0,17,False,0.125,SUP-048
+SHP-00050,2026-10-10,Poland,Mexico,Air,Chemicals,Cleared,12916.1,351.09,5.0,7,True,0.075,SUP-062
+SHP-00051,2026-05-19,Poland,Germany,Road,Chemicals,Cleared,3539.75,151.14,18.0,18,True,0.025,SUP-038
+SHP-00052,2026-08-20,Germany,Sweden,Air,Automotive Parts,Pending Review,2866.19,70.4,19.0,24,True,0.05,SUP-020
+SHP-00053,2026-10-09,Sweden,India,Ocean,Chemicals,Cleared,3785.63,1715.41,3.0,4,True,0.05,SUP-047
+SHP-00054,2026-10-14,United States,Poland,Road,Automotive Parts,Cleared,14967.17,216.06,11.0,13,True,0.025,SUP-075
+SHP-00055,2026-06-18,United States,China,Road,Machinery,Cleared,5362.16,895.45,18.0,21,True,0.025,SUP-018
+SHP-00056,2026-09-20,India,Germany,Road,Machinery,Pending Review,3326.46,541.12,11.0,23,True,0.0,SUP-043
+SHP-00057,2026-08-20,United States,Germany,Road,Packaging,Cleared,13189.7,131.51,18.0,18,True,0.0,SUP-004
+SHP-00058,2026-10-10,Germany,United States,Air,Automotive Parts,Cleared,37098.66,132.56,20.0,20,True,0.1,SUP-018
+SHP-00059,2026-05-22,Poland,United States,Ocean,Chemicals,Pending Review,7174.08,940.41,11.0,11,True,0.0,SUP-058
+SHP-00060,2026-08-12,China,Poland,Ocean,Packaging,Cleared,17133.08,955.77,3.0,3,True,0.05,SUP-038
+SHP-00061,2026-04-30,Mexico,Germany,Ocean,Packaging,Pending Review,14482.06,33.89,8.0,9,True,0.05,SUP-015
+SHP-00062,2026-06-29,Poland,Mexico,Road,Machinery,Cleared,3587.48,383.67,6.0,18,True,0.0,SUP-026
+SHP-00063,2026-04-28,Sweden,United States,Road,Automotive Parts,Pending Review,6140.36,196.13,11.0,23,True,0.1,SUP-010
+SHP-00064,2026-07-14,Mexico,Poland,Road,Machinery,Cleared,2017.95,78.78,13.0,14,True,0.125,SUP-059
+SHP-00065,2026-09-18,Sweden,Germany,Road,Chemicals,Cleared,5043.22,287.65,11.0,12,True,0.075,SUP-071
+SHP-00066,2026-08-22,Sweden,India,Ocean,Automotive Parts,Cleared,3525.36,57.42,5.0,8,True,0.1,SUP-008
+SHP-00067,2026-06-22,Mexico,India,Air,Chemicals,Inspection,4262.23,138.87,8.0,13,True,0.025,SUP-018
+SHP-00068,2026-07-11,Sweden,India,Road,Machinery,Cleared,3173.5,99.64,15.0,15,True,0.125,SUP-065
+SHP-00069,2026-07-01,India,Mexico,Road,Chemicals,Cleared,4703.06,134.32,2.0,3,True,0.1,SUP-066
+SHP-00070,2026-09-04,United States,India,Road,Chemicals,Cleared,9437.04,206.13,6.0,9,True,0.05,SUP-058
+SHP-00071,2026-06-12,Poland,Sweden,Rail,Electronics,Pending Review,5423.15,80.19,19.0,19,True,0.1,SUP-054
+SHP-00072,2026-05-12,Germany,India,Road,Chemicals,Documentation Hold,1230.63,1067.61,3.0,3,False,0.125,SUP-065
+SHP-00073,2026-07-26,United States,Mexico,Road,Packaging,Cleared,3183.69,362.59,10.0,22,True,0.075,SUP-029
+SHP-00074,2026-09-22,India,China,Road,Machinery,Cleared,1649.97,1332.17,6.0,18,True,0.025,SUP-068
+SHP-00075,2026-07-20,China,Poland,Ocean,Electronics,Pending Review,7386.81,188.66,4.0,9,True,0.025,SUP-067
+SHP-00076,2026-06-01,United States,China,Air,Chemicals,Cleared,9207.92,127.9,10.0,13,True,0.025,SUP-018
+SHP-00077,2026-05-04,Sweden,China,Air,Packaging,Cleared,7465.64,1284.87,12.0,12,True,0.025,SUP-006
+SHP-00078,2026-10-12,Germany,Poland,Road,Electronics,Cleared,3073.91,124.21,5.0,5,True,0.125,SUP-040
+SHP-00079,2026-09-09,United States,India,Road,Machinery,Cleared,7404.37,185.25,3.0,4,True,0.025,SUP-057
+SHP-00080,2026-05-23,China,Mexico,Ocean,Packaging,Cleared,4025.49,454.89,4.0,5,True,0.125,SUP-064
+SHP-00081,2026-05-09,Mexico,Poland,Road,Packaging,Cleared,2281.32,64.22,15.0,16,True,0.025,SUP-011
+SHP-00082,2026-05-19,United States,Poland,Road,Electronics,Cleared,11278.35,450.92,19.0,20,True,0.05,SUP-029
+SHP-00083,2026-07-02,Germany,Sweden,Air,Automotive Parts,Cleared,12031.98,396.77,5.0,5,True,0.075,SUP-058
+SHP-00084,2026-09-19,Poland,India,Road,Machinery,Cleared,13447.67,787.86,8.0,10,True,0.0,SUP-005
+SHP-00085,2026-05-24,China,Sweden,Road,Electronics,Pending Review,3579.23,539.18,8.0,8,True,0.025,SUP-055
+SHP-00086,2026-09-20,China,India,Ocean,Chemicals,Cleared,16357.76,812.39,9.0,9,True,0.025,SUP-022
+SHP-00087,2026-04-26,India,Mexico,Air,Chemicals,Pending Review,3945.99,198.26,6.0,5,True,0.0,SUP-002
+SHP-00088,2026-09-05,Sweden,Germany,Road,Packaging,Cleared,10461.7,93.44,3.0,2,True,0.1,SUP-019
+SHP-00089,2026-06-15,Poland,India,Road,Automotive Parts,Pending Review,3888.29,1826.19,12.0,15,True,0.075,SUP-056
+SHP-00090,2026-10-15,Poland,China,Ocean,Electronics,Documentation Hold,4962.25,48.1,9.0,9,False,0.125,SUP-066
+SHP-00091,2026-07-20,United States,Germany,Road,Chemicals,Cleared,766.63,53.17,8.0,8,True,0.125,SUP-007
+SHP-00092,2026-06-13,Poland,Mexico,Road,Packaging,Documentation Hold,4644.2,389.6,7.0,9,False,0.05,SUP-035
+SHP-00093,2026-06-08,Poland,United States,Air,Automotive Parts,Cleared,6486.16,1124.38,20.0,21,True,0.1,SUP-016
+SHP-00094,2026-09-21,Sweden,India,Air,Packaging,Documentation Hold,4236.35,267.62,14.0,11,False,0.0,SUP-052
+SHP-00095,2026-07-07,Mexico,India,Rail,Automotive Parts,Cleared,26709.11,601.43,10.0,10,True,0.05,SUP-059
+SHP-00096,2026-06-28,Sweden,United States,Road,Automotive Parts,Cleared,2234.79,30.09,6.0,5,True,0.075,SUP-073
+SHP-00097,2026-09-05,Germany,India,Road,Packaging,Cleared,3718.05,134.35,18.0,19,True,0.05,SUP-027
+SHP-00098,2026-07-31,China,India,Air,Chemicals,Cleared,2781.81,33.99,19.0,19,True,0.1,SUP-023
+SHP-00099,2026-08-23,China,United States,Ocean,Packaging,Cleared,3717.44,483.19,2.0,1,True,0.125,SUP-024
+SHP-00100,2026-07-15,India,Germany,Road,Chemicals,Cleared,14424.75,47.12,20.0,18,True,0.05,SUP-058
+SHP-00101,2026-05-07,Poland,India,Air,Chemicals,Documentation Hold,21085.21,61.69,15.0,16,False,0.025,SUP-034
+SHP-00102,2026-04-27,Germany,Sweden,Road,Electronics,Cleared,3308.75,370.19,3.0,1,True,0.075,SUP-002
+SHP-00103,2026-05-03,Poland,China,Ocean,Electronics,Pending Review,3246.86,640.23,17.0,20,False,0.125,SUP-072
+SHP-00104,2026-08-07,India,Mexico,Ocean,Electronics,Cleared,2244.95,188.86,4.0,3,True,0.125,SUP-008
+SHP-00105,2026-07-27,Poland,China,Road,Machinery,Cleared,18221.23,391.57,3.0,4,True,0.1,SUP-070
+SHP-00106,2026-09-07,Poland,China,Rail,Packaging,Cleared,15566.15,379.1,4.0,4,True,0.025,SUP-013
+SHP-00107,2026-10-04,Poland,Germany,Rail,Machinery,Cleared,5485.78,178.5,11.0,11,True,0.025,SUP-041
+SHP-00108,2026-05-27,China,Germany,Road,Chemicals,Cleared,1832.28,74.09,14.0,12,True,0.075,SUP-024
+SHP-00109,2026-10-15,United States,Sweden,Road,Chemicals,Pending Review,1977.0,389.51,10.0,13,True,0.05,SUP-052
+SHP-00110,2026-10-10,China,Poland,Air,Electronics,Documentation Hold,6939.85,408.75,4.0,9,False,0.075,SUP-031
+SHP-00111,2026-08-14,Germany,United States,Road,Chemicals,Cleared,9575.25,541.33,5.0,2,True,0.125,SUP-028
+SHP-00112,2026-07-30,Poland,Sweden,Road,Automotive Parts,Cleared,1036.68,302.5,19.0,18,True,0.075,SUP-036
+SHP-00113,2026-05-27,United States,Poland,Road,Machinery,Pending Review,4568.26,68.82,21.0,26,True,0.05,SUP-073
+SHP-00114,2026-05-28,United States,Poland,Rail,Electronics,Cleared,23755.08,441.57,17.0,18,True,0.125,SUP-019
+SHP-00115,2026-04-29,United States,Mexico,Road,Machinery,Cleared,4989.63,221.1,4.0,3,True,0.05,SUP-017
+SHP-00116,2026-08-20,United States,Sweden,Ocean,Packaging,Cleared,21294.25,136.63,18.0,18,True,0.075,SUP-005
+SHP-00117,2026-07-12,India,China,Road,Packaging,Pending Review,10422.16,164.9,15.0,16,True,0.0,SUP-056
+SHP-00118,2026-05-30,India,China,Road,Chemicals,Cleared,2388.36,111.02,12.0,14,True,0.075,SUP-051
+SHP-00119,2026-05-20,Germany,United States,Ocean,Machinery,Cleared,4680.82,538.53,4.0,5,True,0.05,SUP-046
+SHP-00120,2026-05-07,India,Sweden,Road,Automotive Parts,Inspection,5380.89,53.62,21.0,29,True,0.0,SUP-002
+SHP-00121,2026-08-19,United States,India,Road,Chemicals,Cleared,2671.42,81.98,10.0,10,True,0.025,SUP-060
+SHP-00122,2026-08-27,China,Germany,Road,Packaging,Cleared,2632.3,159.37,2.0,2,True,0.1,SUP-061
+SHP-00123,2026-08-17,China,United States,Ocean,Electronics,Cleared,21606.58,1111.82,6.0,6,True,0.025,SUP-071
+SHP-00124,2026-05-15,United States,Mexico,Road,Packaging,Cleared,2615.59,635.42,10.0,10,True,0.0,SUP-070
+SHP-00125,2026-05-03,Poland,Mexico,Road,Packaging,Cleared,15012.98,42.91,3.0,3,True,0.0,SUP-020
+SHP-00126,2026-05-15,United States,Germany,Road,Electronics,Cleared,4142.22,855.21,8.0,6,True,0.0,SUP-054
+SHP-00127,2026-09-08,India,China,Road,Machinery,Cleared,5873.5,853.56,11.0,11,True,0.05,SUP-031
+SHP-00128,2026-09-06,Poland,India,Road,Automotive Parts,Cleared,9677.59,68.44,20.0,22,True,0.05,SUP-045
+SHP-00129,2026-06-18,China,India,Air,Chemicals,Cleared,3609.14,17.79,3.0,1,True,0.075,SUP-025
+SHP-00130,2026-05-05,China,Sweden,Road,Electronics,Pending Review,9727.56,205.98,13.0,13,False,0.075,SUP-050
+SHP-00131,2026-06-22,United States,India,Road,Automotive Parts,Cleared,1054.2,680.23,20.0,21,True,0.075,SUP-072
+SHP-00132,2026-09-18,United States,Poland,Ocean,Automotive Parts,Pending Review,8723.29,1087.09,18.0,19,True,0.125,SUP-049
+SHP-00133,2026-05-21,India,Sweden,Ocean,Packaging,Cleared,736.38,92.68,20.0,22,True,0.025,SUP-070
+SHP-00134,2026-09-16,United States,Poland,Road,Machinery,Cleared,4950.19,1276.63,5.0,8,True,0.1,SUP-070
+SHP-00135,2026-07-18,Poland,United States,Road,Machinery,Cleared,12408.12,23.86,18.0,20,True,0.0,SUP-009
+SHP-00136,2026-05-21,Sweden,Mexico,Road,Chemicals,Cleared,10187.85,153.23,21.0,20,True,0.125,SUP-073
+SHP-00137,2026-10-11,China,India,Rail,Machinery,Cleared,1990.92,145.88,8.0,8,True,0.05,SUP-062
+SHP-00138,2026-07-28,India,Sweden,Road,Packaging,Cleared,2221.16,700.88,11.0,12,True,0.05,SUP-033
+SHP-00139,2026-08-24,Sweden,Poland,Road,Chemicals,Cleared,3343.02,811.03,12.0,12,True,0.0,SUP-046
+SHP-00140,2026-05-13,United States,Sweden,Road,Machinery,Cleared,7032.4,574.92,11.0,9,True,0.075,SUP-047
+SHP-00141,2026-07-01,Mexico,United States,Road,Machinery,Cleared,1067.27,57.37,7.0,7,True,0.05,SUP-059
+SHP-00142,2026-08-17,Germany,India,Road,Packaging,Cleared,5935.82,524.59,21.0,21,True,0.125,SUP-061
+SHP-00143,2026-08-20,Germany,India,Road,Electronics,Documentation Hold,7822.15,368.35,21.0,21,False,0.025,SUP-008
+SHP-00144,2026-05-07,Sweden,China,Ocean,Packaging,Cleared,4719.31,41.63,9.0,8,True,0.05,SUP-001
+SHP-00145,2026-08-12,Mexico,Germany,Air,Machinery,Cleared,9381.76,28.02,18.0,21,True,0.125,SUP-019
+SHP-00146,2026-10-13,Poland,Mexico,Ocean,Automotive Parts,Cleared,7260.22,625.15,9.0,14,True,0.1,SUP-040
+SHP-00147,2026-09-14,India,Poland,Ocean,Packaging,Cleared,3788.0,184.92,17.0,17,True,0.1,SUP-064
+SHP-00148,2026-06-02,Germany,China,Road,Machinery,Cleared,1157.76,61.24,13.0,18,True,0.075,SUP-049
+SHP-00149,2026-10-07,Poland,India,Rail,Packaging,Cleared,6723.75,179.8,11.0,8,True,0.125,SUP-011
+SHP-00150,2026-08-26,India,China,Ocean,Chemicals,Cleared,2670.14,318.63,4.0,9,True,0.025,SUP-054
+SHP-00151,2026-05-06,Poland,India,Ocean,Machinery,Pending Review,3671.7,203.8,15.0,23,True,0.1,SUP-036
+SHP-00152,2026-05-19,Germany,Sweden,Ocean,Chemicals,Cleared,9020.5,46.9,8.0,5,True,0.075,SUP-028
+SHP-00153,2026-10-08,Mexico,United States,Road,Automotive Parts,Cleared,20024.93,1459.07,6.0,8,True,0.05,SUP-058
+SHP-00154,2026-06-02,Sweden,Mexico,Road,Machinery,Pending Review,5811.82,604.39,5.0,13,True,0.025,SUP-023
+SHP-00155,2026-05-13,United States,Germany,Road,Machinery,Cleared,9613.8,158.32,21.0,26,True,0.075,SUP-047
+SHP-00156,2026-07-16,China,United States,Road,Chemicals,Cleared,1758.46,164.83,4.0,12,True,0.0,SUP-014
+SHP-00157,2026-07-29,India,Sweden,Air,Electronics,Pending Review,7396.0,317.19,17.0,18,True,0.1,SUP-029
+SHP-00158,2026-08-07,United States,India,Road,Chemicals,Cleared,5704.9,71.55,19.0,17,True,0.025,SUP-042
+SHP-00159,2026-08-22,United States,India,Road,Electronics,Documentation Hold,17066.0,305.72,2.0,5,False,0.05,SUP-047
+SHP-00160,2026-10-22,Poland,Sweden,Rail,Chemicals,Cleared,3791.85,58.51,13.0,14,True,0.025,SUP-069
+SHP-00161,2026-09-09,Mexico,India,Ocean,Automotive Parts,Documentation Hold,4888.34,206.33,13.0,14,False,0.05,SUP-022
+SHP-00162,2026-04-30,China,India,Air,Chemicals,Documentation Hold,14764.67,68.82,9.0,9,False,0.05,SUP-068
+SHP-00163,2026-05-11,Sweden,India,Road,Automotive Parts,Cleared,5551.21,72.38,15.0,16,True,0.025,SUP-062
+SHP-00164,2026-04-26,Sweden,Germany,Air,Automotive Parts,Pending Review,2339.01,1147.94,10.0,9,True,0.125,SUP-027
+SHP-00165,2026-07-06,Sweden,United States,Ocean,Chemicals,Cleared,52516.79,234.92,10.0,12,True,0.1,SUP-011
+SHP-00166,2026-06-28,Poland,India,Ocean,Automotive Parts,Cleared,2399.93,272.44,10.0,8,True,0.05,SUP-020
+SHP-00167,2026-10-11,Sweden,India,Air,Chemicals,Cleared,5681.7,29.63,18.0,20,True,0.0,SUP-050
+SHP-00168,2026-06-30,Germany,United States,Air,Automotive Parts,Cleared,8060.13,121.88,14.0,17,True,0.125,SUP-060
+SHP-00169,2026-05-01,Sweden,Mexico,Road,Automotive Parts,Cleared,7536.21,351.15,9.0,9,True,0.1,SUP-046
+SHP-00170,2026-10-02,India,China,Ocean,Packaging,Cleared,5108.79,268.85,20.0,21,True,0.075,SUP-055
+SHP-00171,2026-06-11,India,Mexico,Rail,Automotive Parts,Documentation Hold,5130.48,25.69,18.0,18,False,0.075,SUP-008
+SHP-00172,2026-10-07,India,Sweden,Road,Packaging,Pending Review,4916.28,272.36,20.0,28,True,0.0,SUP-038
+SHP-00173,2026-09-12,Poland,United States,Road,Machinery,Cleared,2324.96,319.44,16.0,18,True,0.05,SUP-066
+SHP-00174,2026-10-01,Poland,Sweden,Road,Chemicals,Documentation Hold,37334.99,799.32,9.0,9,False,0.025,SUP-030
+SHP-00175,2026-09-20,China,Mexico,Road,Packaging,Cleared,4979.12,114.98,17.0,16,True,0.075,SUP-068
+SHP-00176,2026-05-21,United States,Mexico,Rail,Automotive Parts,Cleared,9970.55,23.52,8.0,8,True,0.125,SUP-010
+SHP-00177,2026-08-16,Poland,Mexico,Ocean,Machinery,Cleared,4516.74,81.71,7.0,7,True,0.075,SUP-074
+SHP-00178,2026-07-09,Germany,Poland,Road,Electronics,Pending Review,4440.18,73.92,11.0,16,True,0.075,SUP-059
+SHP-00179,2026-08-17,Mexico,United States,Road,Packaging,Pending Review,4076.01,462.53,21.0,23,True,0.1,SUP-047
+SHP-00180,2026-09-07,United States,India,Road,Automotive Parts,Cleared,1607.81,14.63,13.0,13,True,0.125,SUP-047
+SHP-00181,2026-07-25,Mexico,India,Road,Automotive Parts,Documentation Hold,5236.83,141.41,9.0,12,False,0.0,SUP-071
+SHP-00182,2026-06-21,Germany,India,Air,Machinery,Cleared,4247.32,921.31,11.0,11,True,0.025,SUP-029
+SHP-00183,2026-10-07,United States,Sweden,Ocean,Machinery,Cleared,16249.15,223.01,7.0,10,True,0.025,SUP-013
+SHP-00184,2026-08-23,China,Mexico,Ocean,Machinery,Cleared,2170.7,542.57,15.0,15,True,0.1,SUP-069
+SHP-00185,2026-10-02,United States,Sweden,Road,Automotive Parts,Cleared,3675.43,42.87,9.0,10,True,0.05,SUP-008
+SHP-00186,2026-06-07,United States,Germany,Ocean,Packaging,Cleared,2797.06,44.61,13.0,18,True,0.1,SUP-050
+SHP-00187,2026-09-23,Germany,United States,Ocean,Chemicals,Cleared,20458.44,931.92,9.0,9,True,0.05,SUP-020
+SHP-00188,2026-06-23,Sweden,India,Road,Automotive Parts,Cleared,2866.95,244.99,8.0,10,True,0.125,SUP-070
+SHP-00189,2026-07-17,Germany,Mexico,Air,Electronics,Cleared,9681.33,245.49,21.0,33,True,0.1,SUP-074
+SHP-00190,2026-09-27,Sweden,Mexico,Air,Chemicals,Cleared,13692.96,72.37,8.0,7,True,0.0,SUP-036
+SHP-00191,2026-06-28,China,Sweden,Ocean,Chemicals,Cleared,5301.77,244.88,3.0,2,True,0.125,SUP-040
+SHP-00192,2026-06-10,China,United States,Road,Packaging,Cleared,1862.57,70.39,9.0,11,True,0.125,SUP-035
+SHP-00193,2026-10-07,China,Mexico,Road,Chemicals,Cleared,1882.71,725.51,12.0,12,True,0.0,SUP-032
+SHP-00194,2026-10-16,Sweden,Poland,Air,Chemicals,Cleared,12466.49,3387.44,3.0,1,True,0.05,SUP-071
+SHP-00195,2026-06-20,Mexico,Germany,Road,Automotive Parts,Cleared,2055.95,359.22,8.0,8,True,0.125,SUP-022
+SHP-00196,2026-06-20,India,China,Road,Automotive Parts,Cleared,8376.81,117.34,5.0,7,True,0.125,SUP-072
+SHP-00197,2026-06-05,Sweden,China,Ocean,Chemicals,Cleared,6615.67,17.57,12.0,12,True,0.05,SUP-049
+SHP-00198,2026-04-30,India,China,Road,Packaging,Cleared,8271.43,41.08,16.0,16,True,0.075,SUP-073
+SHP-00199,2026-08-03,Sweden,India,Air,Machinery,Cleared,8962.88,1048.23,21.0,24,True,0.0,SUP-046
+SHP-00200,2026-06-10,Mexico,Sweden,Rail,Chemicals,Pending Review,2714.55,79.11,9.0,10,False,0.075,SUP-062
+SHP-00201,2026-09-25,Sweden,Poland,Air,Machinery,Cleared,2619.66,152.81,19.0,22,True,0.075,SUP-037
+SHP-00202,2026-05-26,Mexico,Germany,Air,Electronics,Pending Review,11022.44,426.38,6.0,6,False,0.05,SUP-035
+SHP-00203,2026-08-18,United States,Sweden,Air,Chemicals,Documentation Hold,3515.92,974.86,17.0,25,False,0.025,SUP-020
+SHP-00204,2026-07-26,China,Sweden,Road,Chemicals,Cleared,579.62,181.35,13.0,14,True,0.1,SUP-016
+SHP-00205,2026-08-14,United States,Germany,Road,Automotive Parts,Documentation Hold,10419.58,147.72,17.0,16,False,0.05,SUP-003
+SHP-00206,2026-05-16,Germany,India,Ocean,Packaging,Inspection,2487.86,237.85,17.0,22,True,0.025,SUP-029
+SHP-00207,2026-07-18,Poland,Sweden,Road,Packaging,Pending Review,8929.05,118.2,12.0,12,True,0.05,SUP-075
+SHP-00208,2026-08-16,Mexico,India,Road,Electronics,Cleared,19612.03,124.73,7.0,6,True,0.05,SUP-071
+SHP-00209,2026-06-26,Germany,India,Road,Machinery,Cleared,6089.05,334.25,12.0,11,True,0.025,SUP-052
+SHP-00210,2026-09-30,Poland,Germany,Ocean,Electronics,Cleared,13994.24,266.48,18.0,20,True,0.075,SUP-028
+SHP-00211,2026-07-30,Germany,India,Road,Packaging,Cleared,6841.27,1866.1,21.0,19,True,0.125,SUP-040
+SHP-00212,2026-06-30,Poland,United States,Ocean,Electronics,Cleared,23139.93,343.38,20.0,20,True,0.1,SUP-057
+SHP-00213,2026-05-01,Poland,Germany,Road,Automotive Parts,Cleared,2433.8,700.05,5.0,4,True,0.025,SUP-001
+SHP-00214,2026-05-26,United States,Poland,Air,Automotive Parts,Cleared,5961.14,75.85,13.0,13,True,0.05,SUP-070
+SHP-00215,2026-07-20,Poland,China,Road,Packaging,Cleared,10638.0,374.34,4.0,4,True,0.075,SUP-066
+SHP-00216,2026-07-07,Germany,Poland,Road,Chemicals,Cleared,5105.89,107.45,15.0,16,True,0.1,SUP-073
+SHP-00217,2026-09-29,India,China,Air,Chemicals,Cleared,15984.68,328.8,21.0,21,True,0.1,SUP-008
+SHP-00218,2026-09-14,India,United States,Ocean,Automotive Parts,Cleared,4157.9,440.77,3.0,1,True,0.05,SUP-072
+SHP-00219,2026-05-24,United States,Mexico,Road,Automotive Parts,Cleared,34855.47,232.73,15.0,16,True,0.025,SUP-047
+SHP-00220,2026-08-10,Mexico,United States,Road,Machinery,Cleared,36456.24,2458.55,20.0,20,True,0.075,SUP-042
+SHP-00221,2026-07-16,India,Mexico,Road,Machinery,Cleared,7629.37,923.32,18.0,19,True,0.0,SUP-014
+SHP-00222,2026-05-14,United States,Mexico,Road,Machinery,Cleared,9601.85,718.56,9.0,8,True,0.1,SUP-037
+SHP-00223,2026-08-23,China,India,Air,Electronics,Cleared,16529.81,475.46,4.0,1,True,0.125,SUP-028
+SHP-00224,2026-07-31,Germany,China,Road,Machinery,Cleared,2188.3,1291.24,20.0,20,True,0.1,SUP-075
+SHP-00225,2026-05-11,Poland,Germany,Air,Automotive Parts,Cleared,1968.05,52.62,20.0,20,True,0.05,SUP-026
+SHP-00226,2026-07-19,Sweden,Poland,Road,Electronics,Cleared,17465.03,871.56,13.0,13,True,0.1,SUP-017
+SHP-00227,2026-09-04,Poland,China,Air,Chemicals,Cleared,7577.13,82.17,21.0,24,True,0.075,SUP-071
+SHP-00228,2026-06-23,China,Mexico,Road,Chemicals,Cleared,4951.62,125.92,2.0,2,True,0.075,SUP-015
+SHP-00229,2026-06-29,United States,Germany,Air,Machinery,Cleared,6059.94,388.15,14.0,15,True,0.125,SUP-068
+SHP-00230,2026-05-15,Germany,Poland,Road,Machinery,Cleared,789.87,759.93,2.0,3,True,0.025,SUP-073
+SHP-00231,2026-06-01,United States,India,Rail,Electronics,Cleared,5105.24,69.86,20.0,17,True,0.1,SUP-024
+SHP-00232,2026-10-19,Poland,Germany,Air,Automotive Parts,Pending Review,3165.01,132.62,15.0,16,True,0.1,SUP-052
+SHP-00233,2026-08-15,India,Germany,Ocean,Packaging,Cleared,13099.91,244.09,20.0,20,True,0.075,SUP-060
+SHP-00234,2026-05-27,Poland,United States,Road,Packaging,Cleared,13985.5,183.76,13.0,13,True,0.0,SUP-041
+SHP-00235,2026-07-21,United States,Sweden,Road,Automotive Parts,Cleared,9800.4,520.11,3.0,2,True,0.1,SUP-053
+SHP-00236,2026-05-30,Poland,India,Road,Packaging,Cleared,8401.28,6876.93,2.0,5,True,0.025,SUP-010
+SHP-00237,2026-07-14,China,Sweden,Road,Automotive Parts,Pending Review,1681.19,336.74,8.0,13,False,0.125,SUP-039
+SHP-00238,2026-05-22,United States,China,Ocean,Electronics,Cleared,9917.41,106.14,16.0,13,True,0.1,SUP-039
+SHP-00239,2026-08-15,Sweden,India,Ocean,Chemicals,Cleared,10249.54,60.55,5.0,6,True,0.05,SUP-043
+SHP-00240,2026-08-06,China,Mexico,Air,Machinery,Cleared,17299.17,159.93,19.0,21,True,0.05,SUP-071
+SHP-00241,2026-08-18,India,Poland,Ocean,Machinery,Cleared,36332.88,86.47,6.0,6,True,0.0,SUP-062
+SHP-00242,2026-07-14,China,United States,Road,Automotive Parts,Cleared,1424.14,353.38,11.0,14,True,0.05,SUP-046
+SHP-00243,2026-06-16,India,Mexico,Road,Chemicals,Pending Review,4314.75,347.94,6.0,7,False,0.0,SUP-031
+SHP-00244,2026-06-09,China,United States,Ocean,Automotive Parts,Cleared,3194.14,139.33,11.0,16,True,0.125,SUP-031
+SHP-00245,2026-06-03,China,India,Road,Electronics,Pending Review,6950.93,1611.56,11.0,19,True,0.075,SUP-002
+SHP-00246,2026-07-12,India,Germany,Road,Machinery,Cleared,6071.69,106.12,2.0,1,True,0.025,SUP-042
+SHP-00247,2026-07-16,Poland,Mexico,Rail,Packaging,Cleared,4919.83,196.48,13.0,13,True,0.1,SUP-019
+SHP-00248,2026-08-25,Sweden,Mexico,Rail,Packaging,Cleared,14378.13,419.54,17.0,18,True,0.0,SUP-067
+SHP-00249,2026-05-05,Poland,India,Air,Packaging,Cleared,2353.83,540.26,20.0,19,True,0.075,SUP-059
+SHP-00250,2026-06-15,India,Germany,Road,Chemicals,Cleared,2477.6,794.39,8.0,8,True,0.0,SUP-069
+SHP-00251,2026-09-26,Germany,Sweden,Ocean,Electronics,Pending Review,2513.44,339.85,19.0,31,False,0.0,SUP-075
+SHP-00252,2026-10-07,United States,India,Road,Machinery,Pending Review,4419.23,633.28,19.0,16,True,0.025,SUP-031
+SHP-00253,2026-10-10,Germany,India,Road,Automotive Parts,Cleared,2112.65,113.85,21.0,21,True,0.025,SUP-033
+SHP-00254,2026-06-20,Sweden,Germany,Road,Packaging,Cleared,5760.12,554.51,9.0,12,True,0.1,SUP-046
+SHP-00255,2026-05-20,China,India,Rail,Machinery,Cleared,5215.2,547.15,19.0,19,True,0.125,SUP-033
+SHP-00256,2026-05-31,Germany,India,Rail,Electronics,Cleared,3076.24,1005.14,13.0,13,True,0.1,SUP-021
+SHP-00257,2026-05-19,China,Mexico,Ocean,Automotive Parts,Pending Review,12615.75,41.74,3.0,11,True,0.1,SUP-054
+SHP-00258,2026-10-14,India,United States,Road,Machinery,Cleared,5706.86,89.37,7.0,7,True,0.075,SUP-034
+SHP-00259,2026-10-02,Germany,India,Air,Chemicals,Cleared,14812.85,504.28,15.0,14,True,0.05,SUP-071
+SHP-00260,2026-09-18,China,United States,Road,Electronics,Cleared,5085.8,15.62,5.0,3,True,0.025,SUP-017
+SHP-00261,2026-09-04,Poland,India,Ocean,Electronics,Inspection,5880.72,362.13,10.0,15,True,0.125,SUP-034
+SHP-00262,2026-06-26,Germany,Sweden,Road,Machinery,Cleared,3720.58,638.94,17.0,17,True,0.075,SUP-040
+SHP-00263,2026-07-20,Sweden,India,Road,Automotive Parts,Cleared,5967.06,124.42,4.0,5,True,0.075,SUP-069
+SHP-00264,2026-09-24,Mexico,India,Ocean,Packaging,Pending Review,10997.21,144.0,11.0,10,True,0.0,SUP-044
+SHP-00265,2026-09-19,Mexico,Poland,Air,Electronics,Cleared,4231.73,75.63,6.0,6,True,0.05,SUP-006
+SHP-00266,2026-07-28,China,India,Ocean,Machinery,Pending Review,9326.83,131.43,12.0,17,True,0.1,SUP-026
+SHP-00267,2026-09-23,United States,China,Road,Machinery,Cleared,3008.4,135.29,6.0,7,True,0.05,SUP-067
+SHP-00268,2026-06-27,Sweden,India,Ocean,Chemicals,Cleared,11443.68,111.85,21.0,29,True,0.075,SUP-021
+SHP-00269,2026-07-09,China,Poland,Road,Electronics,Pending Review,3666.82,105.88,3.0,3,False,0.1,SUP-026
+SHP-00270,2026-09-24,China,India,Road,Machinery,Cleared,12381.12,168.85,21.0,22,True,0.0,SUP-012
+SHP-00271,2026-07-02,Sweden,Mexico,Air,Packaging,Pending Review,6322.25,166.82,17.0,20,False,0.125,SUP-054
+SHP-00272,2026-09-08,India,China,Road,Packaging,Cleared,21868.68,1442.5,19.0,19,True,0.1,SUP-011
+SHP-00273,2026-07-16,Germany,United States,Air,Automotive Parts,Cleared,2250.8,149.28,19.0,19,True,0.05,SUP-028
+SHP-00274,2026-06-18,Mexico,Germany,Road,Chemicals,Cleared,1711.71,312.36,5.0,8,True,0.1,SUP-054
+SHP-00275,2026-06-04,Sweden,Mexico,Road,Packaging,Cleared,3555.37,124.35,20.0,20,True,0.0,SUP-068
+SHP-00276,2026-08-13,United States,Sweden,Ocean,Electronics,Cleared,1850.26,122.78,13.0,14,True,0.025,SUP-017
+SHP-00277,2026-07-21,United States,India,Road,Automotive Parts,Inspection,1853.21,40.27,21.0,29,True,0.0,SUP-025
+SHP-00278,2026-07-01,Poland,Sweden,Ocean,Automotive Parts,Cleared,10181.4,46.0,19.0,18,True,0.075,SUP-009
+SHP-00279,2026-09-06,India,Germany,Ocean,Chemicals,Cleared,5981.63,66.22,13.0,13,True,0.125,SUP-033
+SHP-00280,2026-04-26,India,Sweden,Road,Packaging,Pending Review,3992.89,266.05,9.0,7,True,0.075,SUP-075
+SHP-00281,2026-05-12,Germany,India,Ocean,Automotive Parts,Cleared,4320.31,649.48,4.0,4,True,0.1,SUP-023
+SHP-00282,2026-10-16,United States,India,Road,Electronics,Cleared,3613.2,37.09,4.0,4,True,0.0,SUP-020
+SHP-00283,2026-08-23,China,Sweden,Road,Electronics,Cleared,24411.6,127.86,9.0,11,True,0.125,SUP-030
+SHP-00284,2026-08-02,United States,India,Road,Machinery,Cleared,3212.55,56.44,18.0,17,True,0.025,SUP-068
+SHP-00285,2026-04-28,United States,Sweden,Ocean,Chemicals,Cleared,1951.17,169.99,12.0,14,True,0.075,SUP-042
+SHP-00286,2026-08-11,Mexico,India,Air,Packaging,Cleared,11809.3,649.22,11.0,11,True,0.1,SUP-046
+SHP-00287,2026-07-13,Germany,India,Air,Machinery,Cleared,4997.07,141.62,6.0,6,True,0.125,SUP-059
+SHP-00288,2026-08-11,China,India,Rail,Automotive Parts,Cleared,33960.65,211.13,13.0,13,True,0.125,SUP-054
+SHP-00289,2026-05-03,United States,India,Road,Machinery,Cleared,3838.07,948.83,14.0,16,True,0.075,SUP-045
+SHP-00290,2026-08-03,United States,India,Ocean,Machinery,Cleared,12321.32,349.99,21.0,21,True,0.075,SUP-043
+SHP-00291,2026-08-08,Poland,Germany,Ocean,Chemicals,Cleared,15061.06,103.53,16.0,16,True,0.05,SUP-040
+SHP-00292,2026-06-17,Germany,United States,Rail,Electronics,Cleared,3853.99,259.54,14.0,17,True,0.075,SUP-014
+SHP-00293,2026-05-05,Mexico,India,Rail,Automotive Parts,Pending Review,3192.37,96.78,20.0,21,True,0.1,SUP-032
+SHP-00294,2026-10-17,Sweden,India,Rail,Machinery,Cleared,11272.95,337.13,10.0,10,True,0.075,SUP-064
+SHP-00295,2026-08-31,United States,Sweden,Road,Chemicals,Pending Review,9785.51,370.68,20.0,25,True,0.075,SUP-003
+SHP-00296,2026-08-15,United States,India,Ocean,Electronics,Documentation Hold,1809.82,56.42,9.0,9,False,0.05,SUP-063
+SHP-00297,2026-09-11,Poland,United States,Ocean,Electronics,Cleared,2300.38,263.79,4.0,2,True,0.025,SUP-043
+SHP-00298,2026-08-24,United States,Poland,Ocean,Machinery,Cleared,695.09,196.85,10.0,10,True,0.0,SUP-027
+SHP-00299,2026-05-20,Germany,United States,Road,Machinery,Cleared,9957.48,381.72,4.0,3,True,0.05,SUP-009
+SHP-00300,2026-07-16,India,Poland,Rail,Automotive Parts,Cleared,4805.17,508.44,4.0,4,True,0.05,SUP-058
+SHP-00301,2026-10-02,Sweden,United States,Road,Automotive Parts,Documentation Hold,5230.03,356.9,19.0,21,False,0.075,SUP-001
+SHP-00302,2026-06-16,Poland,Germany,Air,Automotive Parts,Cleared,1425.49,163.5,17.0,16,True,0.125,SUP-041
+SHP-00303,2026-10-17,India,Germany,Air,Chemicals,Cleared,2360.46,563.03,6.0,9,True,0.1,SUP-013
+SHP-00304,2026-05-07,Mexico,Sweden,Road,Automotive Parts,Documentation Hold,3998.74,92.47,18.0,23,False,0.1,SUP-069
+SHP-00305,2026-06-24,United States,China,Ocean,Electronics,Cleared,3389.79,59.11,3.0,4,True,0.075,SUP-014
+SHP-00306,2026-06-28,India,Germany,Road,Packaging,Cleared,6635.31,9.07,7.0,9,True,0.125,SUP-061
+SHP-00307,2026-08-15,Sweden,Mexico,Ocean,Chemicals,Cleared,9857.11,206.41,16.0,18,True,0.125,SUP-044
+SHP-00308,2026-05-27,United States,India,Ocean,Electronics,Pending Review,41322.84,97.36,8.0,20,True,0.0,SUP-004
+SHP-00309,2026-06-06,Sweden,Mexico,Road,Automotive Parts,Cleared,5901.64,329.56,16.0,16,True,0.075,SUP-055
+SHP-00310,2026-08-23,India,China,Ocean,Electronics,Cleared,15492.2,30.84,19.0,18,True,0.075,SUP-066
+SHP-00311,2026-06-16,China,Sweden,Road,Packaging,Documentation Hold,2964.68,115.91,3.0,4,False,0.125,SUP-017
+SHP-00312,2026-10-01,China,Germany,Ocean,Machinery,Documentation Hold,1445.62,354.34,2.0,3,False,0.075,SUP-073
+SHP-00313,2026-09-29,India,Poland,Rail,Packaging,Cleared,4449.48,79.06,20.0,19,True,0.0,SUP-060
+SHP-00314,2026-06-19,Germany,Sweden,Road,Chemicals,Cleared,1543.7,333.37,12.0,13,True,0.025,SUP-056
+SHP-00315,2026-08-04,Germany,India,Ocean,Machinery,Cleared,6078.25,126.85,12.0,9,True,0.0,SUP-026
+SHP-00316,2026-06-24,China,Mexico,Air,Automotive Parts,Pending Review,3092.13,214.26,11.0,16,True,0.025,SUP-009
+SHP-00317,2026-06-27,Poland,United States,Air,Automotive Parts,Cleared,1140.1,401.48,10.0,10,True,0.0,SUP-033
+SHP-00318,2026-08-24,Poland,India,Ocean,Machinery,Cleared,26255.25,574.1,15.0,13,True,0.1,SUP-061
+SHP-00319,2026-06-17,Mexico,United States,Air,Machinery,Cleared,3801.2,242.86,13.0,12,True,0.05,SUP-044
+SHP-00320,2026-05-22,Poland,United States,Air,Chemicals,Cleared,1492.23,98.1,5.0,5,True,0.1,SUP-049
+SHP-00321,2026-06-11,Sweden,Mexico,Road,Electronics,Cleared,12880.19,140.04,14.0,14,True,0.125,SUP-059
+SHP-00322,2026-10-10,India,China,Road,Electronics,Cleared,3231.42,418.62,15.0,13,True,0.075,SUP-026
+SHP-00323,2026-06-11,China,Germany,Ocean,Chemicals,Cleared,15163.42,79.74,4.0,4,True,0.05,SUP-003
+SHP-00324,2026-06-30,Mexico,Germany,Road,Chemicals,Cleared,3218.32,185.29,9.0,8,True,0.025,SUP-067
+SHP-00325,2026-08-17,Mexico,China,Air,Chemicals,Cleared,3790.44,150.52,17.0,17,True,0.1,SUP-047
+SHP-00326,2026-05-14,Germany,India,Road,Packaging,Cleared,8047.42,199.66,14.0,14,True,0.075,SUP-043
+SHP-00327,2026-06-13,Germany,Sweden,Ocean,Machinery,Cleared,9939.15,80.7,4.0,4,True,0.1,SUP-043
+SHP-00328,2026-05-27,India,Germany,Air,Packaging,Cleared,11535.81,34.75,2.0,2,True,0.0,SUP-064
+SHP-00329,2026-10-09,India,Germany,Road,Electronics,Cleared,5562.04,372.69,13.0,12,True,0.0,SUP-058
+SHP-00330,2026-10-10,United States,Mexico,Road,Automotive Parts,Cleared,9408.08,580.64,11.0,8,True,0.0,SUP-051
+SHP-00331,2026-09-09,United States,India,Road,Automotive Parts,Pending Review,11313.87,36.89,21.0,21,False,0.1,SUP-059
+SHP-00332,2026-06-09,Sweden,India,Rail,Automotive Parts,Cleared,7118.72,320.19,12.0,14,True,0.075,SUP-022
+SHP-00333,2026-08-14,Sweden,Mexico,Air,Packaging,Cleared,5317.4,654.05,20.0,32,True,0.025,SUP-054
+SHP-00334,2026-08-23,Poland,Germany,Air,Automotive Parts,Inspection,1757.24,401.78,6.0,11,True,0.025,SUP-074
+SHP-00335,2026-09-29,United States,Poland,Ocean,Packaging,Cleared,9989.58,145.96,10.0,11,True,0.075,SUP-018
+SHP-00336,2026-05-24,Poland,India,Road,Chemicals,Cleared,6222.01,86.19,4.0,5,True,0.125,SUP-043
+SHP-00337,2026-09-05,Mexico,Germany,Road,Electronics,Cleared,4223.53,240.08,13.0,13,True,0.125,SUP-052
+SHP-00338,2026-05-30,Sweden,India,Road,Packaging,Cleared,17784.84,283.66,5.0,7,True,0.05,SUP-039
+SHP-00339,2026-08-06,Germany,China,Road,Packaging,Cleared,1783.51,243.67,11.0,13,True,0.1,SUP-073
+SHP-00340,2026-10-01,Mexico,China,Ocean,Packaging,Cleared,24280.55,184.91,8.0,11,True,0.0,SUP-031
+SHP-00341,2026-05-07,China,United States,Ocean,Electronics,Pending Review,5890.33,74.99,5.0,10,True,0.125,SUP-017
+SHP-00342,2026-05-22,Sweden,Germany,Rail,Machinery,Cleared,7862.74,337.88,3.0,3,True,0.0,SUP-011
+SHP-00343,2026-09-19,China,India,Ocean,Automotive Parts,Pending Review,4290.73,354.55,12.0,14,True,0.05,SUP-064
+SHP-00344,2026-04-29,United States,India,Air,Packaging,Cleared,1455.33,270.65,20.0,23,True,0.1,SUP-052
+SHP-00345,2026-08-27,Mexico,Germany,Road,Packaging,Cleared,5331.2,247.4,5.0,5,True,0.125,SUP-044
+SHP-00346,2026-07-25,Germany,China,Ocean,Electronics,Pending Review,7978.72,1187.08,10.0,15,True,0.025,SUP-033
+SHP-00347,2026-06-27,Mexico,China,Rail,Automotive Parts,Pending Review,10665.74,118.58,6.0,5,True,0.075,SUP-031
+SHP-00348,2026-09-28,Mexico,Poland,Ocean,Packaging,Pending Review,5072.92,797.46,18.0,30,True,0.025,SUP-071
+SHP-00349,2026-09-25,Germany,United States,Air,Machinery,Cleared,931.08,106.27,10.0,12,True,0.0,SUP-052
+SHP-00350,2026-06-23,Germany,India,Ocean,Electronics,Cleared,1619.04,671.12,21.0,20,True,0.05,SUP-073
+SHP-00351,2026-04-26,United States,Germany,Ocean,Chemicals,Cleared,34345.17,760.04,6.0,7,True,0.075,SUP-061
+SHP-00352,2026-05-19,India,Poland,Rail,Automotive Parts,Cleared,2371.66,165.17,3.0,1,True,0.025,SUP-058
+SHP-00353,2026-05-15,Sweden,United States,Ocean,Automotive Parts,Cleared,20191.0,1165.57,13.0,15,True,0.125,SUP-042
+SHP-00354,2026-10-19,United States,China,Road,Automotive Parts,Cleared,2713.59,353.91,15.0,18,True,0.075,SUP-019
+SHP-00355,2026-08-11,Mexico,United States,Road,Packaging,Cleared,5140.54,92.09,21.0,22,True,0.05,SUP-050
+SHP-00356,2026-08-25,Mexico,Germany,Air,Packaging,Cleared,10213.11,152.3,19.0,22,True,0.05,SUP-054
+SHP-00357,2026-06-06,Germany,Mexico,Road,Electronics,Cleared,2989.42,687.29,19.0,18,True,0.05,SUP-040
+SHP-00358,2026-09-26,Mexico,Poland,Rail,Electronics,Cleared,23234.25,557.28,14.0,14,True,0.0,SUP-002
+SHP-00359,2026-09-03,India,Mexico,Air,Electronics,Cleared,6402.02,76.86,9.0,9,True,0.075,SUP-073
+SHP-00360,2026-09-08,Poland,India,Air,Machinery,Cleared,8881.48,192.62,10.0,8,True,0.1,SUP-062
+SHP-00361,2026-07-19,Poland,Sweden,Road,Electronics,Pending Review,4781.62,271.38,4.0,4,True,0.05,SUP-027
+SHP-00362,2026-08-29,Mexico,Germany,Ocean,Machinery,Cleared,10508.21,133.27,10.0,10,True,0.05,SUP-038
+SHP-00363,2026-08-01,Germany,India,Air,Chemicals,Cleared,22970.68,2339.75,9.0,9,True,0.125,SUP-010
+SHP-00364,2026-07-04,Mexico,India,Road,Machinery,Cleared,5369.05,279.68,2.0,2,True,0.075,SUP-071
+SHP-00365,2026-08-11,India,United States,Ocean,Chemicals,Cleared,26114.76,208.14,6.0,9,True,0.025,SUP-018
+SHP-00366,2026-06-23,United States,India,Road,Packaging,Cleared,3569.37,728.4,12.0,12,True,0.0,SUP-029
+SHP-00367,2026-10-14,United States,Mexico,Road,Machinery,Cleared,11492.86,153.67,9.0,14,True,0.1,SUP-033
+SHP-00368,2026-09-02,Sweden,China,Road,Automotive Parts,Cleared,9097.43,606.33,21.0,21,True,0.075,SUP-020
+SHP-00369,2026-09-06,India,Mexico,Air,Electronics,Cleared,2420.44,41.77,11.0,11,True,0.075,SUP-048
+SHP-00370,2026-09-02,Poland,Mexico,Ocean,Automotive Parts,Cleared,7199.29,140.66,21.0,22,True,0.025,SUP-075
+SHP-00371,2026-07-15,Sweden,India,Ocean,Machinery,Cleared,6040.61,632.11,15.0,15,True,0.025,SUP-065
+SHP-00372,2026-10-14,China,Sweden,Road,Chemicals,Cleared,2906.74,1064.43,2.0,2,True,0.05,SUP-040
+SHP-00373,2026-06-02,Sweden,Poland,Rail,Electronics,Cleared,8138.02,102.18,6.0,7,True,0.1,SUP-010
+SHP-00374,2026-08-06,Sweden,Poland,Ocean,Electronics,Cleared,6797.74,90.94,16.0,15,True,0.025,SUP-065
+SHP-00375,2026-05-08,Mexico,Germany,Road,Chemicals,Cleared,5643.73,390.51,12.0,12,True,0.075,SUP-020
+SHP-00376,2026-06-18,India,Sweden,Road,Automotive Parts,Cleared,5663.0,118.74,8.0,9,True,0.125,SUP-069
+SHP-00377,2026-08-07,Poland,United States,Road,Electronics,Cleared,5560.77,169.26,12.0,12,True,0.025,SUP-030
+SHP-00378,2026-07-23,Poland,India,Ocean,Automotive Parts,Documentation Hold,4391.63,531.87,20.0,23,False,0.025,SUP-039
+SHP-00379,2026-10-12,Sweden,India,Road,Electronics,Cleared,6760.55,128.5,9.0,9,True,0.025,SUP-033
+SHP-00380,2026-08-14,Germany,China,Air,Machinery,Documentation Hold,3472.65,31.02,2.0,10,False,0.125,SUP-035
+SHP-00381,2026-07-09,India,Sweden,Ocean,Packaging,Cleared,57428.05,60.27,8.0,11,True,0.075,SUP-013
+SHP-00382,2026-07-11,Mexico,Germany,Ocean,Machinery,Cleared,1811.78,223.62,20.0,28,True,0.125,SUP-042
+SHP-00383,2026-08-14,Mexico,United States,Ocean,Machinery,Pending Review,3651.8,34.35,17.0,20,False,0.125,SUP-031
+SHP-00384,2026-09-15,Germany,Sweden,Ocean,Automotive Parts,Pending Review,3905.41,164.49,18.0,17,True,0.05,SUP-064
+SHP-00385,2026-06-14,India,China,Road,Automotive Parts,Cleared,34010.32,55.03,20.0,21,True,0.0,SUP-036
+SHP-00386,2026-08-09,India,Sweden,Ocean,Machinery,Cleared,1954.49,1141.32,4.0,3,True,0.025,SUP-073
+SHP-00387,2026-08-07,India,Poland,Road,Machinery,Cleared,8621.67,1929.74,7.0,10,True,0.075,SUP-023
+SHP-00388,2026-04-27,Poland,India,Road,Chemicals,Pending Review,7414.07,76.85,3.0,4,False,0.05,SUP-025
+SHP-00389,2026-10-07,Mexico,India,Rail,Packaging,Cleared,7970.97,286.22,2.0,2,True,0.0,SUP-003
+SHP-00390,2026-08-06,Germany,India,Road,Packaging,Cleared,17169.53,84.74,18.0,23,True,0.125,SUP-056
+SHP-00391,2026-06-08,Poland,India,Road,Packaging,Cleared,16872.75,162.5,20.0,19,True,0.025,SUP-006
+SHP-00392,2026-08-18,Germany,Sweden,Air,Packaging,Cleared,4091.58,1344.09,5.0,6,True,0.075,SUP-022
+SHP-00393,2026-08-26,Sweden,India,Road,Electronics,Pending Review,7079.19,138.84,16.0,18,False,0.125,SUP-069
+SHP-00394,2026-10-07,China,India,Road,Machinery,Cleared,1230.92,166.33,12.0,10,True,0.075,SUP-046
+SHP-00395,2026-05-02,Poland,China,Air,Chemicals,Cleared,6530.44,86.27,3.0,4,True,0.1,SUP-042
+SHP-00396,2026-07-09,Mexico,Germany,Ocean,Machinery,Pending Review,3056.75,696.58,20.0,23,False,0.0,SUP-061
+SHP-00397,2026-05-28,India,China,Ocean,Chemicals,Cleared,5123.41,8.47,19.0,17,True,0.1,SUP-058
+SHP-00398,2026-08-07,Germany,Poland,Road,Packaging,Cleared,1432.87,142.2,13.0,14,True,0.125,SUP-067
+SHP-00399,2026-07-25,Germany,Poland,Air,Automotive Parts,Cleared,8468.78,211.48,16.0,16,True,0.125,SUP-050
+SHP-00400,2026-07-20,Sweden,China,Ocean,Chemicals,Cleared,1419.3,114.31,9.0,11,True,0.0,SUP-034
+SHP-00401,2026-10-19,Mexico,Sweden,Road,Packaging,Cleared,6809.28,525.08,17.0,16,True,0.025,SUP-010
+SHP-00402,2026-07-30,Poland,India,Road,Electronics,Cleared,2116.4,736.59,10.0,15,True,0.0,SUP-028
+SHP-00403,2026-07-08,Sweden,Poland,Road,Machinery,Cleared,2915.52,53.94,21.0,26,True,0.125,SUP-053
+SHP-00404,2026-05-08,Mexico,Sweden,Air,Machinery,Cleared,16018.86,1796.3,3.0,2,True,0.025,SUP-020
+SHP-00405,2026-06-17,United States,India,Road,Automotive Parts,Cleared,9894.46,53.34,5.0,5,True,0.075,SUP-051
+SHP-00406,2026-10-04,United States,Mexico,Ocean,Machinery,Cleared,15943.76,803.22,21.0,22,True,0.05,SUP-011
+SHP-00407,2026-07-16,United States,Germany,Rail,Chemicals,Cleared,22601.42,257.19,7.0,9,True,0.1,SUP-005
+SHP-00408,2026-10-06,Germany,China,Road,Electronics,Cleared,3112.21,133.79,8.0,8,True,0.125,SUP-028
+SHP-00409,2026-07-30,Mexico,Germany,Ocean,Machinery,Cleared,21463.86,147.03,17.0,16,True,0.025,SUP-018
+SHP-00410,2026-08-02,India,Germany,Road,Electronics,Pending Review,1727.31,214.11,5.0,4,True,0.1,SUP-066
+SHP-00411,2026-07-12,Germany,Poland,Road,Packaging,Cleared,11318.4,272.71,12.0,24,True,0.025,SUP-029
+SHP-00412,2026-08-04,Germany,India,Ocean,Automotive Parts,Cleared,3946.81,88.22,7.0,7,True,0.025,SUP-032
+SHP-00413,2026-05-08,Germany,China,Road,Automotive Parts,Cleared,2722.33,175.22,5.0,8,True,0.0,SUP-031
+SHP-00414,2026-05-06,India,China,Rail,Packaging,Cleared,10120.31,102.45,21.0,21,True,0.05,SUP-024
+SHP-00415,2026-07-20,India,Germany,Air,Chemicals,Pending Review,13402.66,65.69,5.0,10,True,0.075,SUP-069
+SHP-00416,2026-08-11,China,Germany,Road,Electronics,Cleared,13068.74,97.78,3.0,2,True,0.1,SUP-056
+SHP-00417,2026-08-03,Mexico,Poland,Road,Packaging,Cleared,7205.72,70.11,15.0,14,True,0.125,SUP-012
+SHP-00418,2026-07-12,India,United States,Road,Electronics,Inspection,6715.43,145.45,19.0,24,True,0.075,SUP-017
+SHP-00419,2026-06-17,Sweden,India,Ocean,Electronics,Inspection,9394.1,341.2,4.0,9,True,0.05,SUP-007
+SHP-00420,2026-08-31,United States,Mexico,Ocean,Machinery,Cleared,7771.35,249.81,16.0,16,True,0.025,SUP-020
+SHP-00421,2026-08-12,Mexico,Germany,Road,Packaging,Cleared,9510.51,1594.55,12.0,12,True,0.125,SUP-050
+SHP-00422,2026-05-04,China,India,Air,Chemicals,Pending Review,7139.51,24.28,18.0,18,True,0.05,SUP-071
+SHP-00423,2026-07-16,Poland,Mexico,Ocean,Machinery,Cleared,12287.85,354.02,4.0,4,True,0.1,SUP-037
+SHP-00424,2026-08-31,China,India,Ocean,Chemicals,Pending Review,1505.49,222.83,21.0,20,True,0.075,SUP-007
+SHP-00425,2026-09-14,Sweden,United States,Road,Chemicals,Pending Review,5369.11,500.53,14.0,19,True,0.125,SUP-004
+SHP-00426,2026-06-16,Germany,Mexico,Road,Automotive Parts,Cleared,1851.46,453.26,18.0,18,True,0.125,SUP-032
+SHP-00427,2026-10-09,Mexico,China,Road,Automotive Parts,Cleared,7594.63,187.73,9.0,11,True,0.1,SUP-020
+SHP-00428,2026-08-21,Poland,China,Road,Electronics,Cleared,24237.12,263.13,20.0,18,True,0.075,SUP-044
+SHP-00429,2026-07-13,India,Sweden,Air,Chemicals,Documentation Hold,4011.93,105.21,14.0,12,False,0.0,SUP-009
+SHP-00430,2026-08-16,Poland,India,Road,Chemicals,Cleared,6688.63,408.99,4.0,5,True,0.0,SUP-018
+SHP-00431,2026-09-29,India,China,Road,Machinery,Cleared,11418.77,33.82,20.0,20,True,0.075,SUP-042
+SHP-00432,2026-06-05,Poland,Mexico,Road,Packaging,Cleared,1035.29,481.46,17.0,18,True,0.1,SUP-022
+SHP-00433,2026-05-23,Poland,India,Road,Electronics,Documentation Hold,3851.45,216.33,8.0,7,False,0.1,SUP-028
+SHP-00434,2026-07-14,India,Mexico,Rail,Machinery,Pending Review,8183.2,136.04,12.0,17,True,0.025,SUP-017
+SHP-00435,2026-05-11,United States,Sweden,Air,Automotive Parts,Cleared,511.61,175.47,9.0,11,True,0.075,SUP-004
+SHP-00436,2026-09-23,India,United States,Road,Packaging,Cleared,2616.81,188.82,12.0,15,True,0.125,SUP-026
+SHP-00437,2026-10-17,United States,Germany,Air,Chemicals,Cleared,15301.85,810.22,21.0,20,True,0.0,SUP-025
+SHP-00438,2026-08-13,Mexico,China,Road,Electronics,Cleared,14080.52,5616.67,19.0,19,True,0.05,SUP-068
+SHP-00439,2026-10-19,India,Germany,Ocean,Machinery,Cleared,8251.67,749.85,6.0,6,True,0.125,SUP-067
+SHP-00440,2026-05-08,Sweden,Germany,Air,Automotive Parts,Cleared,12706.49,125.8,21.0,22,True,0.025,SUP-033
+SHP-00441,2026-08-17,Mexico,Poland,Air,Automotive Parts,Cleared,7207.22,415.62,10.0,10,True,0.025,SUP-022
+SHP-00442,2026-07-14,Sweden,India,Rail,Automotive Parts,Cleared,9624.68,434.12,16.0,14,True,0.05,SUP-032
+SHP-00443,2026-06-14,India,United States,Ocean,Electronics,Cleared,4590.27,87.78,17.0,17,True,0.1,SUP-046
+SHP-00444,2026-06-21,United States,China,Ocean,Automotive Parts,Cleared,6623.91,62.75,11.0,11,True,0.025,SUP-029
+SHP-00445,2026-08-02,United States,India,Road,Automotive Parts,Cleared,3506.89,207.83,11.0,11,True,0.1,SUP-057
+SHP-00446,2026-08-19,China,Sweden,Road,Machinery,Pending Review,17570.22,496.56,11.0,10,True,0.025,SUP-073
+SHP-00447,2026-05-25,Sweden,India,Ocean,Chemicals,Pending Review,21879.94,44.18,19.0,19,True,0.05,SUP-031
+SHP-00448,2026-08-14,Mexico,China,Air,Electronics,Cleared,19398.01,107.67,9.0,10,True,0.075,SUP-009
+SHP-00449,2026-10-09,United States,Mexico,Ocean,Automotive Parts,Cleared,4243.35,392.55,7.0,7,True,0.0,SUP-010
+SHP-00450,2026-04-27,Sweden,Poland,Ocean,Chemicals,Cleared,2668.55,230.84,9.0,9,True,0.1,SUP-066
+SHP-00451,2026-10-01,Mexico,Germany,Road,Electronics,Cleared,17772.86,912.58,5.0,6,True,0.1,SUP-032
+SHP-00452,2026-08-13,Mexico,India,Road,Automotive Parts,Cleared,9531.15,53.98,9.0,11,True,0.125,SUP-025
+SHP-00453,2026-06-26,United States,India,Air,Chemicals,Cleared,7937.05,2326.6,4.0,4,True,0.025,SUP-047
+SHP-00454,2026-09-05,India,China,Road,Packaging,Cleared,3503.13,47.56,3.0,4,True,0.05,SUP-072
+SHP-00455,2026-08-15,China,Germany,Ocean,Electronics,Documentation Hold,8619.77,29.1,16.0,24,False,0.125,SUP-032
+SHP-00456,2026-09-11,United States,Germany,Ocean,Automotive Parts,Cleared,2386.33,208.74,3.0,4,True,0.0,SUP-024
+SHP-00457,2026-05-10,Germany,Poland,Air,Machinery,Pending Review,10290.26,71.2,13.0,18,False,0.05,SUP-065
+SHP-00458,2026-05-06,China,Mexico,Ocean,Electronics,Cleared,19381.1,212.99,17.0,20,True,0.05,SUP-007
+SHP-00459,2026-08-19,Poland,India,Air,Packaging,Cleared,24013.91,205.67,16.0,14,True,0.05,SUP-064
+SHP-00460,2026-06-19,India,Germany,Ocean,Packaging,Cleared,10962.61,182.04,10.0,10,True,0.05,SUP-040
+SHP-00461,2026-06-07,Poland,China,Road,Packaging,Cleared,1854.34,95.35,5.0,7,True,0.1,SUP-002
+SHP-00462,2026-07-10,India,China,Ocean,Packaging,Cleared,7099.15,341.26,20.0,32,True,0.025,SUP-018
+SHP-00463,2026-09-03,Poland,Germany,Ocean,Electronics,Cleared,37002.08,161.2,18.0,18,True,0.125,SUP-051
+SHP-00464,2026-05-28,Sweden,United States,Road,Chemicals,Cleared,2868.89,667.58,14.0,13,True,0.125,SUP-057
+SHP-00465,2026-10-18,India,United States,Air,Chemicals,Cleared,5708.41,184.87,3.0,4,True,0.025,SUP-015
+SHP-00466,2026-07-10,Mexico,Sweden,Ocean,Chemicals,Cleared,19960.2,84.38,2.0,1,True,0.125,SUP-050
+SHP-00467,2026-05-23,Germany,Poland,Road,Chemicals,Cleared,10143.25,40.95,8.0,10,True,0.025,SUP-075
+SHP-00468,2026-05-08,China,India,Ocean,Automotive Parts,Cleared,49421.11,186.4,5.0,6,True,0.0,SUP-052
+SHP-00469,2026-09-27,Germany,United States,Rail,Packaging,Cleared,3219.76,62.23,19.0,21,True,0.05,SUP-053
+SHP-00470,2026-05-16,Mexico,Poland,Ocean,Automotive Parts,Documentation Hold,2588.17,57.4,6.0,9,False,0.1,SUP-015
+SHP-00471,2026-07-10,Poland,India,Road,Electronics,Cleared,16992.15,375.2,7.0,8,True,0.125,SUP-048
+SHP-00472,2026-08-24,Poland,United States,Air,Electronics,Cleared,2172.22,37.42,21.0,22,True,0.075,SUP-054
+SHP-00473,2026-07-27,United States,Germany,Rail,Packaging,Cleared,5078.38,908.86,18.0,20,True,0.1,SUP-009
+SHP-00474,2026-06-12,United States,Poland,Air,Automotive Parts,Cleared,5677.13,259.75,6.0,9,True,0.025,SUP-024
+SHP-00475,2026-05-15,China,Poland,Road,Electronics,Cleared,14480.98,211.91,9.0,12,True,0.125,SUP-067
+SHP-00476,2026-09-01,Poland,Mexico,Road,Machinery,Cleared,10118.57,78.67,12.0,10,True,0.075,SUP-075
+SHP-00477,2026-07-23,Poland,Germany,Ocean,Automotive Parts,Cleared,8852.94,475.5,15.0,16,True,0.0,SUP-013
+SHP-00478,2026-05-04,India,Sweden,Road,Machinery,Cleared,4263.88,220.76,20.0,20,True,0.0,SUP-055
+SHP-00479,2026-05-28,China,Mexico,Road,Electronics,Documentation Hold,16860.91,111.49,19.0,22,False,0.025,SUP-038
+SHP-00480,2026-08-05,India,United States,Road,Packaging,Cleared,183863.78,270.38,21.0,22,True,0.0,SUP-045
+SHP-00481,2026-05-26,Sweden,Mexico,Ocean,Machinery,Pending Review,10803.11,41.15,2.0,2,True,0.025,SUP-039
+SHP-00482,2026-07-05,Poland,India,Air,Packaging,Cleared,6533.65,43.15,6.0,5,True,0.125,SUP-066
+SHP-00483,2026-05-18,Germany,India,Ocean,Chemicals,Cleared,1991.84,72.23,13.0,13,True,0.025,SUP-034
+SHP-00484,2026-09-16,Poland,India,Ocean,Packaging,Cleared,3491.69,314.04,2.0,4,True,0.075,SUP-045
+SHP-00485,2026-08-17,United States,Sweden,Rail,Packaging,Pending Review,5005.77,220.69,9.0,9,True,0.125,SUP-051
+SHP-00486,2026-09-14,Germany,United States,Ocean,Chemicals,Cleared,3810.78,632.06,5.0,4,True,0.025,SUP-042
+SHP-00487,2026-05-05,Sweden,India,Road,Chemicals,Pending Review,5921.43,88.24,20.0,25,True,0.1,SUP-066
+SHP-00488,2026-07-02,United States,Sweden,Ocean,Automotive Parts,Cleared,27209.29,393.34,3.0,5,True,0.05,SUP-018
+SHP-00489,2026-06-13,Poland,Mexico,Road,Chemicals,Cleared,17328.22,197.58,4.0,3,True,0.025,SUP-072
+SHP-00490,2026-08-16,China,India,Rail,Automotive Parts,Cleared,5244.8,86.22,5.0,5,True,0.125,SUP-051
+SHP-00491,2026-09-20,Mexico,Poland,Road,Chemicals,Inspection,2149.44,325.48,4.0,12,True,0.075,SUP-073
+SHP-00492,2026-06-05,Mexico,India,Ocean,Chemicals,Cleared,18709.05,207.26,13.0,15,True,0.05,SUP-029
+SHP-00493,2026-09-11,Poland,China,Ocean,Chemicals,Cleared,5757.76,118.02,9.0,10,True,0.1,SUP-036
+SHP-00494,2026-08-08,China,Sweden,Road,Chemicals,Cleared,1383.64,230.9,20.0,20,True,0.125,SUP-004
+SHP-00495,2026-09-21,Sweden,Germany,Ocean,Machinery,Cleared,10999.07,194.51,7.0,7,True,0.1,SUP-070
+SHP-00496,2026-05-10,Sweden,China,Road,Machinery,Cleared,14354.71,189.86,12.0,10,True,0.125,SUP-062
+SHP-00497,2026-10-21,India,United States,Road,Electronics,Cleared,763.55,146.56,15.0,17,True,0.025,SUP-023
+SHP-00498,2026-07-13,Sweden,Germany,Air,Electronics,Cleared,2978.36,60.04,14.0,12,True,0.05,SUP-004
+SHP-00499,2026-06-15,Mexico,Sweden,Road,Machinery,Cleared,5464.97,238.59,17.0,14,True,0.025,SUP-053
+SHP-00500,2026-05-28,Sweden,Mexico,Air,Electronics,Cleared,11207.45,99.21,6.0,8,True,0.1,SUP-051
+SHP-00501,2026-10-20,India,Germany,Rail,Electronics,Cleared,3872.34,79.81,12.0,17,True,0.1,SUP-040
+SHP-00502,2026-10-02,China,Germany,Road,Machinery,Cleared,2959.22,174.04,18.0,20,True,0.075,SUP-012
+SHP-00503,2026-05-19,Mexico,China,Air,Chemicals,Cleared,11137.73,461.29,19.0,19,True,0.075,SUP-069
+SHP-00504,2026-07-15,Mexico,Germany,Ocean,Machinery,Cleared,4031.63,266.56,14.0,14,True,0.1,SUP-033
+SHP-00505,2026-09-05,Germany,Mexico,Ocean,Machinery,Cleared,9516.16,130.17,15.0,15,True,0.025,SUP-055
+SHP-00506,2026-08-10,United States,Mexico,Road,Electronics,Cleared,2333.7,125.04,19.0,19,True,0.05,SUP-065
+SHP-00507,2026-05-30,United States,Mexico,Rail,Automotive Parts,Cleared,1901.73,418.14,14.0,15,True,0.1,SUP-042
+SHP-00508,2026-06-29,Germany,Mexico,Road,Chemicals,Cleared,11406.96,20.15,20.0,20,True,0.0,SUP-008
+SHP-00509,2026-07-01,Germany,India,Air,Chemicals,Cleared,7440.12,491.45,4.0,5,True,0.125,SUP-067
+SHP-00510,2026-06-16,Germany,India,Air,Packaging,Pending Review,13148.82,33.99,8.0,13,True,0.025,SUP-051
+SHP-00511,2026-10-15,Mexico,Sweden,Ocean,Machinery,Pending Review,3817.29,53.76,4.0,16,False,0.1,SUP-068
+SHP-00512,2026-06-01,Poland,United States,Road,Electronics,Cleared,3053.86,132.39,3.0,1,True,0.075,SUP-046
+SHP-00513,2026-08-31,Poland,Mexico,Road,Electronics,Documentation Hold,19084.1,1939.38,11.0,11,False,0.125,SUP-069
+SHP-00514,2026-10-07,Poland,India,Ocean,Chemicals,Pending Review,1644.98,1184.91,6.0,5,False,0.1,SUP-066
+SHP-00515,2026-09-16,Mexico,China,Road,Chemicals,Documentation Hold,17391.58,448.76,10.0,10,False,0.075,SUP-017
+SHP-00516,2026-09-16,India,Mexico,Air,Packaging,Cleared,18442.79,316.25,10.0,10,True,0.1,SUP-013
+SHP-00517,2026-05-24,Mexico,China,Ocean,Packaging,Cleared,12469.94,34.39,14.0,13,True,0.05,SUP-013
+SHP-00518,2026-05-19,India,Sweden,Ocean,Automotive Parts,Cleared,3345.47,258.98,20.0,22,True,0.075,SUP-060
+SHP-00519,2026-09-13,United States,Sweden,Road,Machinery,Cleared,2998.76,127.84,18.0,18,True,0.125,SUP-019
+SHP-00520,2026-09-07,China,United States,Road,Chemicals,Pending Review,5021.34,97.84,9.0,14,True,0.0,SUP-034
+SHP-00521,2026-09-06,Sweden,India,Rail,Electronics,Cleared,1996.63,258.48,8.0,6,True,0.05,SUP-060
+SHP-00522,2026-07-10,Germany,Poland,Road,Electronics,Cleared,2650.65,138.23,17.0,15,True,0.0,SUP-033
+SHP-00523,2026-07-29,Germany,China,Road,Automotive Parts,Cleared,10384.03,528.11,4.0,4,True,0.075,SUP-005
+SHP-00524,2026-04-28,Poland,India,Road,Electronics,Cleared,10424.84,31.95,12.0,11,True,0.1,SUP-028
+SHP-00525,2026-06-17,Sweden,United States,Road,Chemicals,Cleared,2459.86,238.65,10.0,10,True,0.0,SUP-008
+SHP-00526,2026-07-30,Sweden,Poland,Rail,Automotive Parts,Pending Review,10664.8,91.92,5.0,17,True,0.075,SUP-029
+SHP-00527,2026-05-18,Mexico,India,Road,Electronics,Cleared,8832.19,146.99,14.0,14,True,0.05,SUP-056
+SHP-00528,2026-05-19,Germany,United States,Road,Packaging,Cleared,21663.92,300.25,8.0,7,True,0.1,SUP-039
+SHP-00529,2026-05-04,Mexico,United States,Air,Electronics,Cleared,9737.76,72.44,5.0,6,True,0.025,SUP-051
+SHP-00530,2026-06-02,Mexico,India,Road,Packaging,Cleared,14761.74,260.92,15.0,15,True,0.0,SUP-009
+SHP-00531,2026-10-21,China,Poland,Road,Machinery,Cleared,9004.83,179.05,5.0,6,True,0.0,SUP-057
+SHP-00532,2026-08-29,Germany,Mexico,Rail,Automotive Parts,Pending Review,13807.12,114.37,15.0,15,True,0.05,SUP-032
+SHP-00533,2026-10-13,Germany,China,Ocean,Chemicals,Cleared,2010.12,138.3,5.0,8,True,0.05,SUP-022
+SHP-00534,2026-06-11,Germany,Mexico,Road,Machinery,Cleared,5412.78,189.7,10.0,9,True,0.125,SUP-049
+SHP-00535,2026-08-11,China,Mexico,Road,Automotive Parts,Pending Review,5807.26,102.74,18.0,18,True,0.05,SUP-011
+SHP-00536,2026-10-03,Germany,Poland,Road,Automotive Parts,Cleared,4879.57,222.98,6.0,8,True,0.025,SUP-038
+SHP-00537,2026-06-28,United States,India,Road,Packaging,Cleared,8754.33,167.64,17.0,20,True,0.1,SUP-032
+SHP-00538,2026-08-22,India,Germany,Air,Chemicals,Cleared,10293.03,120.15,16.0,16,True,0.0,SUP-013
+SHP-00539,2026-08-28,United States,India,Air,Machinery,Cleared,8378.45,1085.55,20.0,21,True,0.05,SUP-072
+SHP-00540,2026-09-22,India,Germany,Ocean,Electronics,Cleared,5164.68,335.37,5.0,3,True,0.075,SUP-028
+SHP-00541,2026-10-17,China,United States,Ocean,Machinery,Cleared,3211.94,151.0,16.0,15,True,0.025,SUP-004
+SHP-00542,2026-08-14,India,Poland,Road,Automotive Parts,Cleared,15254.17,256.17,20.0,18,True,0.075,SUP-034
+SHP-00543,2026-08-08,Germany,United States,Rail,Packaging,Cleared,8081.02,79.3,17.0,19,True,0.05,SUP-073
+SHP-00544,2026-09-29,Germany,India,Air,Packaging,Cleared,2525.46,143.05,5.0,5,True,0.125,SUP-051
+SHP-00545,2026-08-27,Poland,Germany,Road,Machinery,Cleared,5091.69,160.76,18.0,20,True,0.025,SUP-048
+SHP-00546,2026-06-30,India,Mexico,Ocean,Machinery,Cleared,1364.03,63.64,4.0,2,True,0.125,SUP-068
+SHP-00547,2026-08-17,United States,Mexico,Road,Packaging,Cleared,6186.13,326.15,13.0,16,True,0.075,SUP-007
+SHP-00548,2026-08-02,China,Sweden,Air,Electronics,Documentation Hold,5071.42,133.54,11.0,14,False,0.1,SUP-042
+SHP-00549,2026-06-06,United States,Poland,Ocean,Machinery,Cleared,3683.81,155.17,12.0,11,True,0.025,SUP-025
+SHP-00550,2026-07-27,China,Poland,Road,Machinery,Cleared,23084.35,125.37,12.0,9,True,0.0,SUP-051
+SHP-00551,2026-08-16,Poland,Mexico,Ocean,Electronics,Cleared,2246.82,4268.81,2.0,1,True,0.1,SUP-064
+SHP-00552,2026-10-05,Sweden,Mexico,Road,Electronics,Cleared,10942.77,114.14,12.0,15,True,0.05,SUP-006
+SHP-00553,2026-08-08,Poland,China,Ocean,Automotive Parts,Cleared,38511.11,27.98,20.0,20,True,0.025,SUP-012
+SHP-00554,2026-05-25,Sweden,India,Road,Electronics,Cleared,14998.08,44.7,10.0,11,True,0.125,SUP-072
+SHP-00555,2026-10-20,Mexico,China,Road,Electronics,Pending Review,5844.12,473.1,7.0,7,True,0.025,SUP-037
+SHP-00556,2026-08-08,United States,Sweden,Road,Machinery,Cleared,2289.39,842.57,21.0,24,True,0.05,SUP-024
+SHP-00557,2026-06-16,Poland,Sweden,Ocean,Machinery,Cleared,1886.06,111.97,3.0,3,True,0.1,SUP-012
+SHP-00558,2026-09-08,Mexico,China,Road,Electronics,Pending Review,4230.95,795.48,11.0,12,False,0.125,SUP-027
+SHP-00559,2026-07-04,Poland,United States,Ocean,Machinery,Pending Review,3347.77,464.79,12.0,24,True,0.125,SUP-001
+SHP-00560,2026-07-01,Poland,China,Road,Packaging,Pending Review,3256.42,183.19,11.0,10,True,0.075,SUP-017
+SHP-00561,2026-09-24,United States,Sweden,Air,Electronics,Cleared,4548.87,170.64,20.0,23,True,0.0,SUP-014
+SHP-00562,2026-09-29,India,Sweden,Road,Electronics,Cleared,5503.23,265.3,10.0,8,True,0.0,SUP-007
+SHP-00563,2026-07-29,United States,India,Road,Machinery,Pending Review,9067.3,532.43,21.0,21,True,0.1,SUP-073
+SHP-00564,2026-07-02,Germany,China,Rail,Packaging,Inspection,2096.18,329.41,3.0,8,True,0.075,SUP-060
+SHP-00565,2026-09-28,Mexico,China,Road,Automotive Parts,Documentation Hold,3361.33,112.53,16.0,18,False,0.0,SUP-071
+SHP-00566,2026-05-27,Germany,Mexico,Ocean,Electronics,Cleared,5241.06,186.01,13.0,15,True,0.1,SUP-019
+SHP-00567,2026-09-07,Germany,United States,Air,Automotive Parts,Cleared,5083.92,1605.62,6.0,6,True,0.125,SUP-022
+SHP-00568,2026-08-09,Germany,United States,Air,Chemicals,Cleared,28594.23,284.64,6.0,6,True,0.0,SUP-022
+SHP-00569,2026-09-26,China,India,Air,Machinery,Cleared,7313.01,528.12,16.0,16,True,0.1,SUP-042
+SHP-00570,2026-07-10,United States,Germany,Ocean,Machinery,Cleared,1523.02,379.89,14.0,15,True,0.05,SUP-014
+SHP-00571,2026-09-22,Mexico,Sweden,Ocean,Automotive Parts,Cleared,8565.13,291.01,14.0,14,True,0.05,SUP-018
+SHP-00572,2026-04-28,Sweden,India,Air,Chemicals,Cleared,9545.4,246.83,3.0,3,True,0.1,SUP-074
+SHP-00573,2026-09-09,Germany,Sweden,Ocean,Machinery,Cleared,5397.23,543.15,13.0,13,True,0.025,SUP-027
+SHP-00574,2026-05-08,India,Sweden,Air,Machinery,Cleared,2140.11,454.25,21.0,21,True,0.0,SUP-059
+SHP-00575,2026-08-19,India,Poland,Road,Packaging,Cleared,26751.52,288.27,2.0,2,True,0.125,SUP-018
+SHP-00576,2026-05-31,Sweden,India,Air,Automotive Parts,Cleared,2417.76,110.64,11.0,10,True,0.05,SUP-070
+SHP-00577,2026-10-16,Mexico,Sweden,Road,Electronics,Cleared,10526.55,325.56,11.0,14,True,0.025,SUP-053
+SHP-00578,2026-09-11,United States,Germany,Ocean,Automotive Parts,Cleared,7115.59,207.06,19.0,20,True,0.1,SUP-065
+SHP-00579,2026-05-14,Mexico,Sweden,Rail,Automotive Parts,Cleared,10003.49,162.67,7.0,6,True,0.025,SUP-039
+SHP-00580,2026-10-03,India,China,Rail,Automotive Parts,Cleared,25612.33,3225.28,11.0,13,True,0.1,SUP-068
+SHP-00581,2026-06-10,India,Germany,Ocean,Automotive Parts,Cleared,9675.9,47.51,16.0,19,True,0.0,SUP-028
+SHP-00582,2026-08-02,Poland,Sweden,Air,Packaging,Pending Review,3733.63,577.39,3.0,3,True,0.075,SUP-036
+SHP-00583,2026-05-11,India,Germany,Ocean,Electronics,Pending Review,15368.78,93.44,18.0,17,True,0.05,SUP-005
+SHP-00584,2026-05-15,India,Mexico,Road,Packaging,Cleared,3510.68,252.45,18.0,15,True,0.125,SUP-013
+SHP-00585,2026-06-08,Sweden,Poland,Air,Machinery,Pending Review,6898.26,2888.77,16.0,14,False,0.075,SUP-058
+SHP-00586,2026-07-31,Mexico,Germany,Road,Chemicals,Cleared,1999.95,84.57,14.0,16,True,0.125,SUP-025
+SHP-00587,2026-08-01,China,Germany,Road,Automotive Parts,Pending Review,2494.17,107.35,16.0,28,True,0.025,SUP-008
+SHP-00588,2026-09-27,India,Germany,Rail,Automotive Parts,Cleared,6270.92,217.56,17.0,15,True,0.05,SUP-022
+SHP-00589,2026-05-25,Poland,United States,Ocean,Automotive Parts,Cleared,8208.07,94.9,20.0,22,True,0.1,SUP-027
+SHP-00590,2026-09-07,Poland,India,Air,Packaging,Cleared,1412.29,535.96,10.0,8,True,0.0,SUP-054
+SHP-00591,2026-04-27,Poland,China,Road,Chemicals,Cleared,9160.85,129.73,11.0,12,True,0.125,SUP-007
+SHP-00592,2026-06-17,Mexico,India,Ocean,Chemicals,Cleared,2991.37,425.82,14.0,16,True,0.1,SUP-002
+SHP-00593,2026-05-27,Germany,Sweden,Road,Packaging,Cleared,17813.91,58.6,5.0,5,True,0.1,SUP-055
+SHP-00594,2026-05-18,Mexico,Germany,Ocean,Machinery,Pending Review,4450.76,36.35,19.0,16,True,0.025,SUP-011
+SHP-00595,2026-08-09,Sweden,United States,Rail,Chemicals,Cleared,2309.81,176.09,17.0,18,True,0.1,SUP-032
+SHP-00596,2026-10-05,Poland,Germany,Road,Electronics,Documentation Hold,6402.44,46.13,14.0,26,False,0.125,SUP-052
+SHP-00597,2026-08-24,China,Mexico,Road,Electronics,Cleared,2755.08,1010.57,8.0,8,True,0.025,SUP-039
+SHP-00598,2026-09-26,Poland,Germany,Road,Chemicals,Cleared,17651.98,47.95,8.0,7,True,0.075,SUP-010
+SHP-00599,2026-08-10,China,United States,Road,Electronics,Pending Review,6005.62,78.44,10.0,9,False,0.0,SUP-055
+SHP-00600,2026-05-05,China,United States,Road,Automotive Parts,Cleared,5276.8,334.83,15.0,16,True,0.05,SUP-004
+SHP-00601,2026-06-27,China,India,Road,Automotive Parts,Cleared,9927.17,123.18,17.0,18,True,0.0,SUP-018
+SHP-00602,2026-09-21,Poland,United States,Road,Electronics,Cleared,2554.97,48.5,15.0,18,True,0.075,SUP-009
+SHP-00603,2026-05-03,Poland,United States,Road,Electronics,Cleared,2006.64,1702.69,20.0,22,True,0.075,SUP-039
+SHP-00604,2026-05-13,India,Germany,Road,Chemicals,Inspection,8493.86,81.32,21.0,26,True,0.075,SUP-052
+SHP-00605,2026-09-23,Poland,India,Ocean,Electronics,Pending Review,2357.32,181.95,16.0,19,False,0.1,SUP-049
+SHP-00606,2026-05-07,United States,India,Road,Automotive Parts,Cleared,2356.64,179.61,9.0,9,True,0.125,SUP-011
+SHP-00607,2026-10-15,Sweden,India,Ocean,Machinery,Cleared,12225.05,450.48,13.0,14,True,0.025,SUP-026
+SHP-00608,2026-09-09,United States,India,Road,Electronics,Cleared,9379.71,351.55,10.0,10,True,0.025,SUP-011
+SHP-00609,2026-08-23,Mexico,India,Road,Packaging,Cleared,2067.81,96.85,14.0,14,True,0.025,SUP-026
+SHP-00610,2026-07-31,Mexico,India,Road,Electronics,Inspection,3546.56,159.84,18.0,23,True,0.125,SUP-018
+SHP-00611,2026-05-12,Poland,Germany,Ocean,Chemicals,Cleared,2784.51,176.46,9.0,11,True,0.0,SUP-056
+SHP-00612,2026-07-09,United States,China,Road,Chemicals,Cleared,27170.07,468.23,12.0,20,True,0.0,SUP-057
+SHP-00613,2026-09-18,Poland,China,Air,Machinery,Cleared,12966.3,68.83,2.0,2,True,0.0,SUP-062
+SHP-00614,2026-10-05,Sweden,United States,Road,Packaging,Pending Review,4197.66,1665.88,16.0,17,True,0.1,SUP-016
+SHP-00615,2026-07-15,China,Mexico,Rail,Chemicals,Cleared,9796.35,103.63,11.0,11,True,0.075,SUP-002
+SHP-00616,2026-09-24,China,India,Road,Packaging,Cleared,1895.51,219.48,11.0,10,True,0.125,SUP-003
+SHP-00617,2026-09-12,Germany,India,Road,Chemicals,Cleared,3388.87,69.41,12.0,12,True,0.025,SUP-064
+SHP-00618,2026-05-06,Germany,India,Ocean,Chemicals,Cleared,6562.55,60.45,6.0,7,True,0.05,SUP-068
+SHP-00619,2026-08-15,India,Germany,Road,Automotive Parts,Cleared,8816.64,92.35,13.0,11,True,0.075,SUP-016
+SHP-00620,2026-08-14,India,Sweden,Road,Electronics,Documentation Hold,5525.67,83.89,16.0,21,False,0.0,SUP-066
+SHP-00621,2026-08-01,United States,Sweden,Ocean,Automotive Parts,Cleared,7411.67,146.31,8.0,7,True,0.125,SUP-040
+SHP-00622,2026-09-12,United States,Poland,Road,Chemicals,Cleared,6416.23,83.18,4.0,3,True,0.1,SUP-014
+SHP-00623,2026-10-03,Germany,Sweden,Road,Chemicals,Cleared,5223.69,443.88,9.0,11,True,0.0,SUP-024
+SHP-00624,2026-08-03,Sweden,Mexico,Road,Electronics,Cleared,4667.02,101.19,5.0,4,True,0.125,SUP-020
+SHP-00625,2026-06-22,China,Poland,Road,Machinery,Inspection,4178.36,90.58,9.0,14,True,0.05,SUP-058
+SHP-00626,2026-10-19,Germany,Mexico,Rail,Automotive Parts,Cleared,7311.08,149.46,14.0,16,True,0.05,SUP-015
+SHP-00627,2026-10-16,Sweden,India,Ocean,Chemicals,Cleared,8511.67,597.55,4.0,2,True,0.125,SUP-014
+SHP-00628,2026-08-27,Sweden,Mexico,Air,Chemicals,Cleared,7105.36,274.48,16.0,18,True,0.075,SUP-054
+SHP-00629,2026-08-19,United States,China,Road,Electronics,Cleared,2204.36,200.4,6.0,7,True,0.025,SUP-023
+SHP-00630,2026-05-14,Sweden,Mexico,Ocean,Chemicals,Pending Review,2568.07,52.82,19.0,21,True,0.1,SUP-019
+SHP-00631,2026-07-07,Poland,Sweden,Ocean,Chemicals,Cleared,8425.76,70.62,16.0,19,True,0.1,SUP-061
+SHP-00632,2026-05-31,Sweden,Mexico,Road,Electronics,Documentation Hold,20971.56,61.66,7.0,9,False,0.025,SUP-070
+SHP-00633,2026-07-27,United States,China,Ocean,Automotive Parts,Cleared,6833.23,817.99,13.0,14,True,0.1,SUP-042
+SHP-00634,2026-09-21,Sweden,India,Air,Packaging,Cleared,4230.53,376.37,4.0,4,True,0.075,SUP-063
+SHP-00635,2026-06-05,Germany,Sweden,Ocean,Electronics,Cleared,7264.03,93.54,3.0,5,True,0.025,SUP-064
+SHP-00636,2026-10-22,China,India,Road,Chemicals,Cleared,2284.04,125.92,21.0,29,True,0.05,SUP-045
+SHP-00637,2026-05-19,Germany,Mexico,Road,Packaging,Cleared,18262.44,97.0,18.0,19,True,0.125,SUP-063
+SHP-00638,2026-05-13,Sweden,India,Ocean,Machinery,Cleared,7034.66,91.3,5.0,7,True,0.025,SUP-001
+SHP-00639,2026-10-18,Poland,Germany,Ocean,Chemicals,Cleared,3398.06,350.83,7.0,7,True,0.1,SUP-003
+SHP-00640,2026-05-14,Mexico,United States,Road,Automotive Parts,Cleared,5209.42,166.08,5.0,7,True,0.1,SUP-067
+SHP-00641,2026-09-05,China,Sweden,Road,Packaging,Cleared,3835.36,1774.31,9.0,21,True,0.125,SUP-011
+SHP-00642,2026-09-10,Mexico,India,Ocean,Automotive Parts,Cleared,18304.82,773.06,7.0,6,True,0.025,SUP-055
+SHP-00643,2026-06-24,Poland,India,Road,Electronics,Cleared,5054.81,820.14,8.0,8,True,0.025,SUP-032
+SHP-00644,2026-05-07,United States,Poland,Road,Machinery,Cleared,6850.39,433.27,12.0,13,True,0.125,SUP-060
+SHP-00645,2026-06-20,Poland,India,Air,Automotive Parts,Cleared,9775.82,145.09,5.0,5,True,0.05,SUP-050
+SHP-00646,2026-05-08,Sweden,China,Road,Electronics,Cleared,3198.22,402.54,19.0,20,True,0.075,SUP-006
+SHP-00647,2026-08-25,United States,Sweden,Road,Packaging,Cleared,7077.34,156.2,16.0,14,True,0.075,SUP-026
+SHP-00648,2026-10-02,United States,India,Road,Automotive Parts,Cleared,7580.01,1130.34,17.0,17,True,0.075,SUP-054
+SHP-00649,2026-10-22,Mexico,United States,Rail,Machinery,Cleared,1602.04,331.72,5.0,6,True,0.075,SUP-070
+SHP-00650,2026-09-17,Poland,Germany,Road,Automotive Parts,Cleared,7441.23,287.83,16.0,17,True,0.05,SUP-061
+SHP-00651,2026-09-12,United States,India,Ocean,Automotive Parts,Cleared,5773.9,251.41,18.0,19,True,0.05,SUP-067
+SHP-00652,2026-10-01,China,Germany,Rail,Machinery,Cleared,6704.08,1261.76,5.0,7,True,0.05,SUP-072
+SHP-00653,2026-09-11,Germany,United States,Ocean,Electronics,Cleared,6187.49,52.79,17.0,18,True,0.075,SUP-068
+SHP-00654,2026-08-21,Poland,Germany,Air,Chemicals,Cleared,7482.29,1391.71,9.0,12,True,0.1,SUP-044
+SHP-00655,2026-10-22,United States,India,Air,Chemicals,Cleared,18708.66,183.8,17.0,18,True,0.075,SUP-026
+SHP-00656,2026-06-23,United States,Poland,Road,Chemicals,Pending Review,2202.65,54.26,11.0,12,True,0.1,SUP-039
+SHP-00657,2026-07-09,Poland,Sweden,Air,Chemicals,Cleared,4488.04,104.35,18.0,19,True,0.05,SUP-060
+SHP-00658,2026-10-06,China,India,Rail,Machinery,Cleared,10579.0,42.49,4.0,3,True,0.1,SUP-032
+SHP-00659,2026-06-20,India,United States,Ocean,Packaging,Cleared,9034.33,425.67,9.0,9,True,0.05,SUP-063
+SHP-00660,2026-06-18,Sweden,Poland,Road,Automotive Parts,Cleared,8870.57,78.39,7.0,8,True,0.05,SUP-053
+SHP-00661,2026-05-23,Germany,Poland,Road,Chemicals,Cleared,62351.35,262.08,6.0,9,True,0.0,SUP-016
+SHP-00662,2026-06-14,Poland,Sweden,Ocean,Automotive Parts,Pending Review,10117.43,688.29,8.0,10,True,0.025,SUP-070
+SHP-00663,2026-08-10,India,Poland,Road,Chemicals,Cleared,15698.13,113.07,9.0,8,True,0.1,SUP-064
+SHP-00664,2026-10-02,Germany,Sweden,Ocean,Automotive Parts,Cleared,4623.88,169.34,4.0,5,True,0.0,SUP-045
+SHP-00665,2026-05-20,China,Poland,Road,Machinery,Cleared,2581.24,60.14,16.0,16,True,0.025,SUP-015
+SHP-00666,2026-08-26,China,Sweden,Ocean,Machinery,Cleared,4595.49,150.15,13.0,15,True,0.1,SUP-018
+SHP-00667,2026-09-10,United States,India,Ocean,Chemicals,Cleared,10994.67,2904.52,18.0,21,True,0.125,SUP-063
+SHP-00668,2026-10-04,Mexico,Poland,Air,Automotive Parts,Cleared,8482.87,481.99,16.0,17,True,0.05,SUP-002
+SHP-00669,2026-09-08,Mexico,India,Road,Machinery,Cleared,8457.12,169.91,4.0,5,True,0.05,SUP-037
+SHP-00670,2026-05-24,India,Poland,Ocean,Machinery,Cleared,5003.07,120.1,3.0,3,True,0.075,SUP-047
+SHP-00671,2026-07-23,Mexico,India,Road,Chemicals,Cleared,4368.91,212.17,10.0,10,True,0.1,SUP-018
+SHP-00672,2026-10-14,China,Germany,Road,Packaging,Cleared,5151.9,252.16,11.0,14,True,0.05,SUP-065
+SHP-00673,2026-10-06,China,India,Air,Chemicals,Cleared,11112.26,145.61,6.0,8,True,0.025,SUP-040
+SHP-00674,2026-08-14,India,Mexico,Road,Electronics,Cleared,12266.39,376.18,17.0,18,True,0.05,SUP-005
+SHP-00675,2026-10-16,China,Sweden,Ocean,Machinery,Cleared,2552.16,85.33,13.0,13,True,0.025,SUP-025
+SHP-00676,2026-08-24,Poland,India,Road,Packaging,Cleared,11475.75,84.91,16.0,14,True,0.1,SUP-030
+SHP-00677,2026-05-07,China,Germany,Road,Automotive Parts,Cleared,3452.61,320.6,4.0,3,True,0.0,SUP-017
+SHP-00678,2026-10-07,India,Mexico,Ocean,Automotive Parts,Cleared,8942.62,68.81,18.0,17,True,0.075,SUP-071
+SHP-00679,2026-05-26,United States,Poland,Road,Machinery,Cleared,5099.15,458.98,6.0,6,True,0.0,SUP-028
+SHP-00680,2026-07-03,Mexico,India,Air,Machinery,Inspection,22718.17,218.27,10.0,15,True,0.125,SUP-038
+SHP-00681,2026-06-07,Poland,Sweden,Ocean,Electronics,Cleared,4207.55,35.59,10.0,11,True,0.075,SUP-041
+SHP-00682,2026-09-02,India,Germany,Ocean,Packaging,Cleared,6987.09,247.03,18.0,18,True,0.0,SUP-017
+SHP-00683,2026-05-01,Mexico,Germany,Air,Chemicals,Cleared,10052.78,41.05,7.0,6,True,0.125,SUP-043
+SHP-00684,2026-08-19,Mexico,Poland,Ocean,Machinery,Cleared,2855.88,442.91,6.0,6,True,0.075,SUP-027
+SHP-00685,2026-09-28,Germany,China,Road,Machinery,Cleared,5642.44,172.65,8.0,11,True,0.075,SUP-001
+SHP-00686,2026-09-14,Poland,Germany,Road,Chemicals,Cleared,4785.77,1409.63,9.0,9,True,0.0,SUP-031
+SHP-00687,2026-06-20,Sweden,China,Rail,Machinery,Cleared,3878.71,646.33,5.0,7,True,0.025,SUP-044
+SHP-00688,2026-10-04,China,Sweden,Ocean,Packaging,Documentation Hold,4130.84,76.65,5.0,8,False,0.1,SUP-009
+SHP-00689,2026-06-30,United States,India,Air,Electronics,Cleared,15447.65,29.35,6.0,5,True,0.05,SUP-059
+SHP-00690,2026-08-26,Poland,United States,Air,Electronics,Pending Review,3609.17,104.05,11.0,12,True,0.075,SUP-050
+SHP-00691,2026-07-26,Mexico,Germany,Air,Packaging,Pending Review,9715.2,65.28,8.0,16,True,0.125,SUP-024
+SHP-00692,2026-05-08,Poland,Germany,Road,Machinery,Cleared,7843.23,1374.35,9.0,9,True,0.05,SUP-045
+SHP-00693,2026-04-26,Mexico,India,Ocean,Electronics,Cleared,1830.91,219.13,16.0,14,True,0.05,SUP-023
+SHP-00694,2026-05-28,Mexico,China,Ocean,Electronics,Pending Review,9332.83,563.08,6.0,11,True,0.1,SUP-049
+SHP-00695,2026-10-11,India,Germany,Air,Machinery,Cleared,1805.36,166.5,20.0,25,True,0.0,SUP-012
+SHP-00696,2026-10-14,Germany,Poland,Road,Automotive Parts,Cleared,10238.17,185.0,17.0,18,True,0.05,SUP-046
+SHP-00697,2026-07-08,Poland,China,Road,Machinery,Cleared,3900.61,214.3,5.0,6,True,0.125,SUP-005
+SHP-00698,2026-10-17,China,Mexico,Road,Automotive Parts,Cleared,6045.76,669.51,8.0,8,True,0.025,SUP-002
+SHP-00699,2026-05-04,India,Poland,Ocean,Chemicals,Pending Review,1997.92,302.36,5.0,8,True,0.025,SUP-020
+SHP-00700,2026-10-17,India,Sweden,Air,Automotive Parts,Cleared,6661.0,76.91,7.0,7,True,0.05,SUP-014
+SHP-00701,2026-06-06,United States,India,Road,Machinery,Cleared,13199.15,1121.6,9.0,7,True,0.0,SUP-037
+SHP-00702,2026-05-02,China,United States,Air,Packaging,Cleared,3023.22,165.2,4.0,6,True,0.0,SUP-013
+SHP-00703,2026-09-09,Germany,Poland,Rail,Electronics,Pending Review,3582.83,140.4,2.0,10,True,0.025,SUP-019
+SHP-00704,2026-07-03,Germany,India,Road,Chemicals,Cleared,8834.57,13.07,10.0,13,True,0.125,SUP-008
+SHP-00705,2026-06-17,India,Sweden,Air,Chemicals,Cleared,9024.29,417.55,16.0,16,True,0.025,SUP-067
+SHP-00706,2026-09-09,United States,Germany,Air,Machinery,Cleared,758.2,244.94,8.0,6,True,0.1,SUP-056
+SHP-00707,2026-06-24,India,Sweden,Road,Chemicals,Cleared,33292.77,244.67,19.0,24,True,0.05,SUP-017
+SHP-00708,2026-09-08,China,Germany,Air,Machinery,Pending Review,9407.57,147.99,9.0,14,True,0.1,SUP-010
+SHP-00709,2026-05-31,United States,India,Air,Chemicals,Cleared,10855.0,124.56,20.0,21,True,0.025,SUP-064
+SHP-00710,2026-05-11,United States,Mexico,Road,Chemicals,Cleared,5313.42,153.0,6.0,7,True,0.125,SUP-051
+SHP-00711,2026-06-23,China,India,Road,Packaging,Cleared,1240.1,351.83,12.0,12,True,0.05,SUP-067
+SHP-00712,2026-08-13,United States,Mexico,Ocean,Packaging,Cleared,10652.12,419.52,17.0,17,True,0.1,SUP-014
+SHP-00713,2026-06-05,Poland,India,Road,Automotive Parts,Documentation Hold,3712.98,175.73,3.0,2,False,0.1,SUP-027
+SHP-00714,2026-05-21,Poland,India,Ocean,Machinery,Pending Review,9531.35,571.88,20.0,19,True,0.05,SUP-009
+SHP-00715,2026-09-07,Mexico,Sweden,Air,Electronics,Cleared,4984.15,204.59,9.0,9,True,0.1,SUP-032
+SHP-00716,2026-07-23,Poland,United States,Ocean,Machinery,Cleared,7349.1,133.72,11.0,14,True,0.0,SUP-013
+SHP-00717,2026-07-12,United States,Germany,Ocean,Chemicals,Cleared,3106.5,270.0,14.0,13,True,0.05,SUP-001
+SHP-00718,2026-06-08,United States,India,Ocean,Packaging,Cleared,12515.59,56.86,14.0,14,True,0.05,SUP-039
+SHP-00719,2026-04-29,Germany,United States,Air,Machinery,Pending Review,2186.11,279.42,2.0,3,False,0.125,SUP-074
+SHP-00720,2026-05-05,China,United States,Road,Packaging,Cleared,40486.91,47.36,19.0,19,True,0.125,SUP-049
+SHP-00721,2026-08-26,India,Sweden,Road,Packaging,Cleared,40225.5,79.22,14.0,13,True,0.1,SUP-057
+SHP-00722,2026-05-10,Mexico,United States,Road,Packaging,Cleared,24047.7,29.41,21.0,22,True,0.125,SUP-061
+SHP-00723,2026-06-09,Poland,India,Road,Automotive Parts,Cleared,17750.29,185.84,11.0,11,True,0.125,SUP-073
+SHP-00724,2026-10-06,India,United States,Road,Machinery,Cleared,5586.64,1107.25,14.0,15,True,0.1,SUP-010
+SHP-00725,2026-06-26,Poland,Sweden,Road,Automotive Parts,Inspection,16180.54,196.94,10.0,15,True,0.075,SUP-019
+SHP-00726,2026-09-07,India,Germany,Road,Automotive Parts,Cleared,5531.7,421.4,19.0,18,True,0.025,SUP-047
+SHP-00727,2026-06-26,Poland,Sweden,Road,Automotive Parts,Documentation Hold,1602.8,2326.95,18.0,23,False,0.1,SUP-062
+SHP-00728,2026-10-10,India,Germany,Road,Electronics,Inspection,21541.17,331.64,20.0,25,True,0.025,SUP-059
+SHP-00729,2026-09-20,United States,Germany,Ocean,Automotive Parts,Cleared,15669.96,103.01,12.0,15,True,0.025,SUP-055
+SHP-00730,2026-07-19,China,Mexico,Air,Machinery,Cleared,5845.12,118.21,17.0,18,True,0.125,SUP-024
+SHP-00731,2026-08-27,Poland,India,Ocean,Packaging,Pending Review,2118.78,221.55,9.0,10,False,0.0,SUP-028
+SHP-00732,2026-07-09,Sweden,United States,Air,Packaging,Cleared,3647.25,117.58,11.0,12,True,0.0,SUP-006
+SHP-00733,2026-10-12,Mexico,Poland,Ocean,Packaging,Cleared,1276.69,126.71,17.0,19,True,0.075,SUP-024
+SHP-00734,2026-06-29,Poland,Mexico,Ocean,Automotive Parts,Cleared,13404.14,593.04,3.0,1,True,0.075,SUP-012
+SHP-00735,2026-09-23,Germany,India,Road,Chemicals,Cleared,1536.38,617.79,16.0,24,True,0.0,SUP-071
+SHP-00736,2026-08-14,China,Germany,Rail,Chemicals,Documentation Hold,7660.3,42.65,2.0,3,False,0.05,SUP-007
+SHP-00737,2026-08-19,Poland,Sweden,Road,Automotive Parts,Cleared,2930.3,97.69,13.0,16,True,0.025,SUP-028
+SHP-00738,2026-06-28,Sweden,United States,Air,Packaging,Cleared,1785.23,139.21,11.0,11,True,0.025,SUP-067
+SHP-00739,2026-09-22,Poland,Mexico,Ocean,Electronics,Cleared,7351.07,403.06,11.0,8,True,0.025,SUP-072
+SHP-00740,2026-09-07,Mexico,Germany,Road,Packaging,Cleared,4520.01,694.42,11.0,12,True,0.1,SUP-029
+SHP-00741,2026-09-19,Poland,Germany,Air,Automotive Parts,Cleared,12239.95,3300.96,11.0,12,True,0.05,SUP-035
+SHP-00742,2026-09-17,Poland,Germany,Road,Chemicals,Cleared,2043.74,138.98,10.0,10,True,0.125,SUP-040
+SHP-00743,2026-05-24,China,Mexico,Road,Automotive Parts,Cleared,3153.55,146.1,11.0,11,True,0.0,SUP-062
+SHP-00744,2026-09-30,Germany,India,Road,Packaging,Pending Review,788.79,398.84,13.0,13,True,0.1,SUP-058
+SHP-00745,2026-09-24,Poland,Sweden,Road,Chemicals,Cleared,937.58,111.92,17.0,18,True,0.125,SUP-040
+SHP-00746,2026-06-08,Sweden,India,Road,Automotive Parts,Cleared,27679.95,192.3,13.0,13,True,0.05,SUP-028
+SHP-00747,2026-10-19,United States,Germany,Air,Machinery,Inspection,35279.54,146.2,14.0,22,True,0.1,SUP-028
+SHP-00748,2026-07-29,Sweden,Mexico,Air,Machinery,Cleared,6495.19,16.09,18.0,17,True,0.05,SUP-049
+SHP-00749,2026-06-22,Sweden,India,Air,Automotive Parts,Cleared,2980.2,250.44,21.0,21,True,0.075,SUP-063
+SHP-00750,2026-06-05,Germany,Sweden,Ocean,Automotive Parts,Cleared,4657.89,184.5,4.0,4,True,0.125,SUP-006
+SHP-00751,2026-06-30,Mexico,India,Road,Packaging,Cleared,12613.69,789.37,16.0,17,True,0.075,SUP-058
+SHP-00752,2026-05-02,Germany,China,Road,Packaging,Cleared,3876.82,222.63,6.0,6,True,0.075,SUP-037
+SHP-00753,2026-08-28,India,Germany,Ocean,Electronics,Cleared,7346.57,63.13,5.0,6,True,0.125,SUP-011
+SHP-00754,2026-08-31,Mexico,United States,Rail,Packaging,Cleared,5938.18,171.04,17.0,25,True,0.05,SUP-008
+SHP-00755,2026-08-24,United States,Mexico,Road,Chemicals,Cleared,3701.56,27.36,3.0,3,True,0.025,SUP-026
+SHP-00756,2026-08-02,United States,Sweden,Road,Automotive Parts,Cleared,3838.11,65.96,18.0,20,True,0.1,SUP-019
+SHP-00757,2026-06-30,Poland,United States,Ocean,Chemicals,Cleared,7702.67,418.01,17.0,14,True,0.1,SUP-008
+SHP-00758,2026-09-03,Sweden,United States,Ocean,Automotive Parts,Cleared,2616.64,172.89,21.0,21,True,0.025,SUP-023
+SHP-00759,2026-09-29,India,China,Road,Packaging,Documentation Hold,8812.88,556.97,15.0,15,False,0.1,SUP-063
+SHP-00760,2026-05-11,Poland,Germany,Road,Machinery,Cleared,4020.49,30.97,19.0,17,True,0.0,SUP-054
+SHP-00761,2026-07-03,Germany,Poland,Road,Automotive Parts,Documentation Hold,6689.28,173.74,4.0,5,False,0.025,SUP-016
+SHP-00762,2026-10-22,United States,Mexico,Air,Machinery,Cleared,19464.9,137.62,19.0,21,True,0.125,SUP-051
+SHP-00763,2026-09-28,Mexico,India,Rail,Chemicals,Cleared,5203.24,575.85,5.0,7,True,0.075,SUP-034
+SHP-00764,2026-10-21,Mexico,Poland,Ocean,Packaging,Cleared,13119.22,433.88,8.0,9,True,0.075,SUP-057
+SHP-00765,2026-05-28,Sweden,Poland,Road,Electronics,Cleared,1308.68,420.84,4.0,5,True,0.075,SUP-019
+SHP-00766,2026-07-18,Poland,India,Ocean,Automotive Parts,Cleared,4024.64,1034.23,10.0,10,True,0.0,SUP-005
+SHP-00767,2026-05-19,China,Sweden,Ocean,Packaging,Cleared,6145.87,153.23,16.0,14,True,0.125,SUP-024
+SHP-00768,2026-09-28,United States,India,Air,Chemicals,Cleared,30786.49,841.41,7.0,6,True,0.025,SUP-075
+SHP-00769,2026-07-28,India,Poland,Ocean,Electronics,Cleared,1134.61,77.93,18.0,19,True,0.1,SUP-042
+SHP-00770,2026-06-08,Sweden,Germany,Road,Electronics,Cleared,5531.54,75.12,14.0,26,True,0.125,SUP-005
+SHP-00771,2026-05-12,China,Poland,Road,Packaging,Documentation Hold,20706.14,470.01,14.0,11,False,0.025,SUP-074
+SHP-00772,2026-09-05,Mexico,India,Air,Machinery,Documentation Hold,3080.15,49.17,20.0,21,False,0.075,SUP-062
+SHP-00773,2026-09-19,India,China,Air,Automotive Parts,Cleared,5009.48,392.59,10.0,12,True,0.0,SUP-041
+SHP-00774,2026-10-01,Poland,Sweden,Rail,Automotive Parts,Cleared,7958.36,245.01,8.0,11,True,0.075,SUP-056
+SHP-00775,2026-10-17,Poland,United States,Air,Chemicals,Cleared,7022.2,646.68,21.0,22,True,0.05,SUP-014
+SHP-00776,2026-09-19,Mexico,India,Road,Packaging,Cleared,22717.82,208.63,13.0,14,True,0.0,SUP-045
+SHP-00777,2026-09-14,Sweden,Mexico,Road,Chemicals,Cleared,8788.53,234.17,14.0,16,True,0.1,SUP-069
+SHP-00778,2026-09-19,India,Sweden,Air,Chemicals,Cleared,18557.09,368.44,7.0,10,True,0.125,SUP-033
+SHP-00779,2026-10-22,Germany,India,Road,Machinery,Cleared,4420.43,114.13,6.0,5,True,0.0,SUP-003
+SHP-00780,2026-07-18,Poland,India,Ocean,Electronics,Pending Review,3198.87,109.27,5.0,10,False,0.125,SUP-057
+SHP-00781,2026-09-09,Mexico,China,Road,Automotive Parts,Pending Review,4954.91,355.82,6.0,3,True,0.125,SUP-055
+SHP-00782,2026-09-20,China,India,Road,Machinery,Cleared,2241.19,215.02,5.0,8,True,0.075,SUP-056
+SHP-00783,2026-05-16,India,Germany,Air,Chemicals,Documentation Hold,9054.21,147.33,16.0,14,False,0.125,SUP-049
+SHP-00784,2026-08-28,India,Poland,Road,Packaging,Cleared,4324.29,203.82,3.0,2,True,0.025,SUP-011
+SHP-00785,2026-06-25,United States,China,Ocean,Packaging,Cleared,3391.34,1090.68,14.0,11,True,0.1,SUP-009
+SHP-00786,2026-05-19,China,Poland,Air,Packaging,Documentation Hold,9171.53,142.16,20.0,20,False,0.1,SUP-060
+SHP-00787,2026-05-26,India,Poland,Air,Automotive Parts,Documentation Hold,2270.7,138.1,17.0,17,False,0.075,SUP-065
+SHP-00788,2026-05-16,China,Germany,Ocean,Packaging,Cleared,11555.62,40.15,10.0,9,True,0.125,SUP-006
+SHP-00789,2026-10-04,United States,Germany,Ocean,Machinery,Pending Review,3997.46,212.23,3.0,3,True,0.125,SUP-044
+SHP-00790,2026-09-11,India,Mexico,Ocean,Chemicals,Cleared,16078.4,427.04,18.0,18,True,0.1,SUP-038
+SHP-00791,2026-05-14,India,United States,Road,Packaging,Cleared,4299.15,510.91,2.0,4,True,0.075,SUP-027
+SHP-00792,2026-08-16,United States,India,Road,Packaging,Cleared,10271.45,246.71,15.0,20,True,0.125,SUP-049
+SHP-00793,2026-08-22,Poland,Sweden,Ocean,Chemicals,Cleared,6992.74,575.84,15.0,16,True,0.075,SUP-069
+SHP-00794,2026-07-28,Poland,China,Air,Machinery,Cleared,11297.27,460.0,5.0,4,True,0.075,SUP-062
+SHP-00795,2026-08-13,United States,Poland,Ocean,Electronics,Cleared,6590.96,673.81,16.0,16,True,0.025,SUP-012
+SHP-00796,2026-10-06,Sweden,India,Air,Chemicals,Pending Review,1459.88,592.47,5.0,10,True,0.025,SUP-035
+SHP-00797,2026-07-28,Mexico,United States,Ocean,Electronics,Cleared,14150.07,1064.2,6.0,5,True,0.125,SUP-071
+SHP-00798,2026-08-22,United States,Mexico,Road,Electronics,Cleared,5571.78,186.85,18.0,18,True,0.05,SUP-018
+SHP-00799,2026-08-06,Sweden,Germany,Air,Electronics,Inspection,11743.89,58.73,21.0,26,True,0.075,SUP-065
+SHP-00800,2026-07-06,United States,Germany,Road,Electronics,Cleared,10793.61,429.97,7.0,15,True,0.1,SUP-037
+SHP-00801,2026-10-03,India,Mexico,Road,Automotive Parts,Cleared,3111.0,483.26,20.0,20,True,0.025,SUP-040
+SHP-00802,2026-07-09,Sweden,India,Ocean,Packaging,Cleared,2758.45,1064.22,20.0,22,True,0.025,SUP-019
+SHP-00803,2026-09-16,United States,Sweden,Air,Automotive Parts,Cleared,10478.2,797.35,17.0,17,True,0.0,SUP-069
+SHP-00804,2026-08-12,Mexico,United States,Road,Packaging,Cleared,4638.93,1549.17,4.0,6,True,0.025,SUP-040
+SHP-00805,2026-08-27,Poland,India,Ocean,Automotive Parts,Cleared,13305.93,411.52,7.0,5,True,0.075,SUP-044
+SHP-00806,2026-09-09,Poland,India,Ocean,Electronics,Cleared,5159.16,278.33,15.0,14,True,0.1,SUP-035
+SHP-00807,2026-09-05,United States,India,Air,Electronics,Cleared,14326.96,55.42,21.0,22,True,0.025,SUP-007
+SHP-00808,2026-08-05,India,Germany,Rail,Electronics,Cleared,8602.51,301.3,18.0,18,True,0.05,SUP-059
+SHP-00809,2026-08-14,Sweden,Poland,Road,Electronics,Pending Review,7667.75,127.42,10.0,12,False,0.025,SUP-025
+SHP-00810,2026-07-26,Mexico,China,Ocean,Packaging,Cleared,4368.13,273.56,6.0,6,True,0.1,SUP-019
+SHP-00811,2026-06-26,India,United States,Road,Automotive Parts,Pending Review,7314.13,233.81,21.0,26,True,0.075,SUP-059
+SHP-00812,2026-09-03,Mexico,Sweden,Road,Packaging,Cleared,16546.42,354.86,7.0,10,True,0.0,SUP-015
+SHP-00813,2026-10-01,China,Germany,Road,Chemicals,Cleared,5732.56,200.87,8.0,8,True,0.075,SUP-052
+SHP-00814,2026-08-30,Germany,Mexico,Road,Chemicals,Cleared,9428.56,563.98,21.0,23,True,0.05,SUP-036
+SHP-00815,2026-09-11,Poland,China,Air,Automotive Parts,Cleared,6244.19,14.54,13.0,13,True,0.125,SUP-060
+SHP-00816,2026-09-22,Poland,Sweden,Road,Automotive Parts,Cleared,6673.59,267.73,7.0,7,True,0.025,SUP-004
+SHP-00817,2026-07-01,India,Sweden,Ocean,Machinery,Cleared,25975.24,736.93,2.0,1,True,0.125,SUP-059
+SHP-00818,2026-05-07,India,Poland,Road,Machinery,Cleared,16671.74,1436.62,10.0,13,True,0.1,SUP-018
+SHP-00819,2026-06-25,China,Poland,Road,Chemicals,Cleared,6422.05,460.34,21.0,24,True,0.0,SUP-066
+SHP-00820,2026-09-08,Mexico,United States,Rail,Packaging,Inspection,7203.24,1193.78,10.0,15,True,0.1,SUP-027
+SHP-00821,2026-09-19,India,Sweden,Ocean,Electronics,Pending Review,3305.72,262.16,15.0,18,True,0.1,SUP-001
+SHP-00822,2026-07-27,China,India,Rail,Chemicals,Cleared,5182.14,222.04,7.0,15,True,0.05,SUP-037
+SHP-00823,2026-09-13,India,China,Air,Automotive Parts,Cleared,7808.66,375.93,17.0,17,True,0.0,SUP-005
+SHP-00824,2026-05-09,China,India,Road,Chemicals,Cleared,12369.9,220.7,17.0,22,True,0.05,SUP-021
+SHP-00825,2026-08-19,China,India,Air,Automotive Parts,Cleared,11348.46,101.26,14.0,15,True,0.075,SUP-054
+SHP-00826,2026-08-26,India,United States,Air,Chemicals,Cleared,2338.18,132.26,17.0,17,True,0.0,SUP-043
+SHP-00827,2026-07-26,China,India,Road,Machinery,Cleared,13772.59,72.81,13.0,14,True,0.05,SUP-054
+SHP-00828,2026-09-01,Mexico,India,Ocean,Electronics,Cleared,5566.61,375.54,9.0,9,True,0.1,SUP-066
+SHP-00829,2026-07-23,Mexico,United States,Air,Machinery,Documentation Hold,2594.26,223.94,16.0,16,False,0.075,SUP-036
+SHP-00830,2026-07-29,India,Sweden,Ocean,Electronics,Cleared,18693.42,154.43,18.0,18,True,0.125,SUP-041
+SHP-00831,2026-08-12,Germany,United States,Air,Packaging,Cleared,20822.45,125.63,18.0,17,True,0.025,SUP-005
+SHP-00832,2026-09-15,Germany,India,Air,Packaging,Cleared,7511.46,366.89,6.0,6,True,0.1,SUP-022
+SHP-00833,2026-06-09,United States,India,Road,Machinery,Pending Review,10965.12,483.21,15.0,20,True,0.05,SUP-055
+SHP-00834,2026-06-19,Germany,China,Rail,Machinery,Cleared,11525.67,71.48,2.0,3,True,0.025,SUP-005
+SHP-00835,2026-07-10,Poland,Mexico,Road,Electronics,Cleared,19661.28,61.09,13.0,14,True,0.125,SUP-027
+SHP-00836,2026-06-01,Poland,India,Road,Chemicals,Cleared,11146.25,575.08,13.0,13,True,0.075,SUP-011
+SHP-00837,2026-06-25,Poland,China,Road,Automotive Parts,Pending Review,1941.98,55.97,9.0,9,True,0.075,SUP-065
+SHP-00838,2026-06-28,Germany,India,Ocean,Chemicals,Cleared,33134.71,382.79,21.0,21,True,0.025,SUP-043
+SHP-00839,2026-06-21,India,Mexico,Rail,Packaging,Pending Review,14850.79,1115.33,19.0,22,True,0.125,SUP-049
+SHP-00840,2026-07-08,Mexico,United States,Ocean,Packaging,Cleared,3892.88,1117.93,2.0,1,True,0.0,SUP-052
+SHP-00841,2026-07-25,Sweden,India,Ocean,Electronics,Cleared,2501.93,463.07,6.0,8,True,0.0,SUP-017
+SHP-00842,2026-08-29,China,Mexico,Rail,Machinery,Cleared,9219.64,449.8,6.0,8,True,0.025,SUP-004
+SHP-00843,2026-06-19,Mexico,Poland,Ocean,Machinery,Cleared,4738.51,2104.66,19.0,20,True,0.075,SUP-030
+SHP-00844,2026-09-25,India,Poland,Road,Chemicals,Cleared,7946.57,21.45,12.0,15,True,0.0,SUP-014
+SHP-00845,2026-07-21,India,Germany,Air,Electronics,Documentation Hold,11292.52,139.17,16.0,16,False,0.1,SUP-025
+SHP-00846,2026-09-02,India,Mexico,Road,Automotive Parts,Cleared,3709.03,517.23,18.0,23,True,0.025,SUP-024
+SHP-00847,2026-05-16,Germany,United States,Road,Chemicals,Cleared,2324.61,158.02,17.0,19,True,0.1,SUP-059
+SHP-00848,2026-05-27,India,United States,Road,Automotive Parts,Cleared,8332.72,764.93,3.0,6,True,0.1,SUP-024
+SHP-00849,2026-07-16,Poland,India,Road,Packaging,Cleared,3814.71,212.86,4.0,6,True,0.125,SUP-012
+SHP-00850,2026-06-30,China,India,Rail,Electronics,Pending Review,6796.62,252.58,9.0,12,True,0.025,SUP-072
+SHP-00851,2026-07-24,Mexico,Germany,Rail,Machinery,Pending Review,1916.34,168.23,8.0,20,True,0.0,SUP-004
+SHP-00852,2026-05-24,Poland,Sweden,Road,Automotive Parts,Cleared,4844.72,131.3,16.0,16,True,0.1,SUP-016
+SHP-00853,2026-07-20,Mexico,Sweden,Ocean,Automotive Parts,Cleared,11022.67,128.11,5.0,8,True,0.05,SUP-027
+SHP-00854,2026-08-27,Germany,Mexico,Road,Packaging,Cleared,10047.13,290.37,9.0,11,True,0.125,SUP-005
+SHP-00855,2026-09-04,Sweden,Poland,Road,Electronics,Cleared,3071.42,102.05,6.0,6,True,0.025,SUP-068
+SHP-00856,2026-06-09,Poland,Sweden,Road,Packaging,Pending Review,2223.81,574.33,5.0,10,True,0.075,SUP-027
+SHP-00857,2026-06-26,Germany,Poland,Road,Packaging,Cleared,6083.89,425.48,5.0,5,True,0.0,SUP-059
+SHP-00858,2026-07-29,India,Poland,Road,Automotive Parts,Cleared,9670.91,664.75,5.0,6,True,0.05,SUP-011
+SHP-00859,2026-07-28,China,Sweden,Road,Machinery,Cleared,8470.96,71.6,13.0,12,True,0.0,SUP-040
+SHP-00860,2026-09-15,Poland,Sweden,Road,Packaging,Cleared,3884.17,40.47,10.0,10,True,0.1,SUP-010
+SHP-00861,2026-07-05,Mexico,India,Road,Electronics,Cleared,7732.22,220.48,10.0,13,True,0.075,SUP-018
+SHP-00862,2026-08-24,Mexico,United States,Rail,Electronics,Cleared,21525.68,4019.05,11.0,11,True,0.0,SUP-031
+SHP-00863,2026-10-02,India,Germany,Road,Electronics,Cleared,7146.46,785.41,16.0,16,True,0.05,SUP-065
+SHP-00864,2026-06-18,Poland,India,Road,Chemicals,Cleared,1497.91,127.17,19.0,19,True,0.05,SUP-023
+SHP-00865,2026-09-21,Poland,China,Air,Packaging,Pending Review,7134.66,338.5,12.0,12,False,0.1,SUP-057
+SHP-00866,2026-06-24,China,United States,Road,Packaging,Cleared,34110.6,458.33,14.0,17,True,0.05,SUP-007
+SHP-00867,2026-06-25,Poland,India,Air,Chemicals,Cleared,2009.65,56.35,16.0,21,True,0.05,SUP-019
+SHP-00868,2026-08-21,Poland,Mexico,Road,Electronics,Cleared,6156.51,870.99,15.0,13,True,0.1,SUP-046
+SHP-00869,2026-08-15,United States,Sweden,Ocean,Machinery,Cleared,4952.34,187.27,4.0,5,True,0.075,SUP-036
+SHP-00870,2026-08-02,India,Sweden,Air,Automotive Parts,Cleared,6512.64,202.21,21.0,21,True,0.1,SUP-038
+SHP-00871,2026-06-06,United States,Germany,Ocean,Chemicals,Cleared,7080.6,226.74,5.0,6,True,0.125,SUP-051
+SHP-00872,2026-05-13,Germany,China,Air,Automotive Parts,Cleared,15819.14,695.44,10.0,10,True,0.125,SUP-006
+SHP-00873,2026-10-06,India,Sweden,Road,Chemicals,Cleared,6451.49,104.04,15.0,15,True,0.125,SUP-053
+SHP-00874,2026-09-30,India,Sweden,Road,Electronics,Cleared,17777.18,40.17,10.0,10,True,0.1,SUP-065
+SHP-00875,2026-10-02,China,India,Road,Chemicals,Pending Review,5431.62,305.81,6.0,7,False,0.075,SUP-058
+SHP-00876,2026-07-27,United States,Sweden,Air,Packaging,Cleared,4457.68,28.68,20.0,21,True,0.075,SUP-022
+SHP-00877,2026-10-02,United States,India,Road,Electronics,Cleared,3398.86,163.84,3.0,3,True,0.025,SUP-027
+SHP-00878,2026-07-20,Poland,United States,Road,Electronics,Documentation Hold,1281.1,725.51,6.0,9,False,0.1,SUP-073
+SHP-00879,2026-05-09,United States,Germany,Ocean,Electronics,Cleared,7588.69,395.08,21.0,23,True,0.1,SUP-060
+SHP-00880,2026-05-31,China,India,Road,Machinery,Cleared,34403.04,627.88,16.0,16,True,0.125,SUP-070
+SHP-00881,2026-06-14,India,Poland,Road,Automotive Parts,Cleared,8861.76,411.72,3.0,6,True,0.1,SUP-069
+SHP-00882,2026-07-02,Poland,India,Ocean,Automotive Parts,Documentation Hold,10761.55,2465.96,17.0,20,False,0.05,SUP-033
+SHP-00883,2026-10-12,United States,Sweden,Road,Chemicals,Cleared,4225.63,122.95,21.0,20,True,0.025,SUP-010
+SHP-00884,2026-06-24,Germany,China,Ocean,Packaging,Cleared,4877.15,329.68,3.0,4,True,0.125,SUP-018
+SHP-00885,2026-08-14,Poland,India,Rail,Automotive Parts,Pending Review,13862.54,142.86,10.0,10,False,0.1,SUP-023
+SHP-00886,2026-06-13,Poland,China,Rail,Machinery,Cleared,33103.34,576.4,11.0,13,True,0.125,SUP-063
+SHP-00887,2026-08-19,India,Poland,Road,Chemicals,Pending Review,21263.68,208.18,4.0,4,False,0.075,SUP-021
+SHP-00888,2026-08-06,Germany,China,Road,Chemicals,Cleared,11901.95,1235.02,6.0,8,True,0.075,SUP-028
+SHP-00889,2026-05-23,India,Sweden,Air,Chemicals,Pending Review,6184.97,130.21,5.0,5,False,0.0,SUP-064
+SHP-00890,2026-07-18,Germany,India,Air,Chemicals,Cleared,7174.3,904.27,5.0,6,True,0.0,SUP-013
+SHP-00891,2026-05-14,India,Mexico,Air,Automotive Parts,Inspection,3163.77,400.67,10.0,15,True,0.1,SUP-050
+SHP-00892,2026-10-03,China,Sweden,Road,Machinery,Cleared,1752.95,214.33,11.0,11,True,0.025,SUP-042
+SHP-00893,2026-08-30,United States,Poland,Road,Electronics,Cleared,2303.58,380.86,6.0,9,True,0.0,SUP-074
+SHP-00894,2026-10-12,Mexico,Germany,Road,Automotive Parts,Inspection,6262.47,287.51,7.0,19,True,0.1,SUP-037
+SHP-00895,2026-09-30,Poland,Germany,Road,Machinery,Pending Review,4683.53,316.07,5.0,8,False,0.075,SUP-040
+SHP-00896,2026-06-04,China,Poland,Road,Machinery,Cleared,1721.54,180.03,17.0,16,True,0.0,SUP-064
+SHP-00897,2026-08-31,United States,Mexico,Rail,Packaging,Cleared,5815.46,109.77,6.0,9,True,0.05,SUP-075
+SHP-00898,2026-05-14,India,Mexico,Road,Machinery,Cleared,4579.45,158.37,20.0,18,True,0.05,SUP-055
+SHP-00899,2026-10-15,India,Poland,Air,Packaging,Cleared,2215.16,41.13,12.0,12,True,0.0,SUP-053
+SHP-00900,2026-09-14,China,Germany,Rail,Chemicals,Cleared,4382.38,513.86,18.0,21,True,0.075,SUP-066
+SHP-00901,2026-08-26,India,Mexico,Road,Chemicals,Cleared,4569.64,64.38,14.0,16,True,0.05,SUP-074
+SHP-00902,2026-10-22,India,China,Air,Packaging,Cleared,3554.1,178.1,7.0,8,True,0.125,SUP-056
+SHP-00903,2026-09-25,Germany,India,Ocean,Packaging,Cleared,13196.01,423.28,14.0,14,True,0.0,SUP-022
+SHP-00904,2026-09-28,Mexico,India,Road,Machinery,Cleared,1190.98,512.55,7.0,10,True,0.125,SUP-049
+SHP-00905,2026-05-14,United States,Mexico,Air,Electronics,Cleared,1109.95,37.54,4.0,6,True,0.0,SUP-018
+SHP-00906,2026-04-30,China,Germany,Ocean,Electronics,Cleared,6019.7,201.98,7.0,7,True,0.1,SUP-038
+SHP-00907,2026-10-15,Sweden,Poland,Ocean,Packaging,Pending Review,6513.99,350.63,7.0,12,True,0.1,SUP-034
+SHP-00908,2026-06-10,Germany,India,Ocean,Automotive Parts,Cleared,8464.05,233.23,4.0,4,True,0.05,SUP-075
+SHP-00909,2026-07-11,Sweden,Germany,Rail,Electronics,Cleared,3796.64,849.01,2.0,1,True,0.025,SUP-042
+SHP-00910,2026-05-03,India,Germany,Road,Machinery,Cleared,2751.12,97.34,20.0,21,True,0.0,SUP-072
+SHP-00911,2026-08-16,Poland,Germany,Ocean,Machinery,Pending Review,5965.7,28.53,12.0,20,True,0.05,SUP-061
+SHP-00912,2026-09-20,Germany,China,Air,Chemicals,Cleared,4124.33,497.86,10.0,10,True,0.1,SUP-064
+SHP-00913,2026-09-24,Sweden,Mexico,Ocean,Machinery,Cleared,22435.74,129.4,20.0,20,True,0.1,SUP-013
+SHP-00914,2026-08-08,Mexico,India,Ocean,Chemicals,Pending Review,4556.94,38.15,6.0,5,True,0.025,SUP-059
+SHP-00915,2026-08-23,China,Poland,Ocean,Packaging,Cleared,5737.58,188.95,10.0,13,True,0.0,SUP-019
+SHP-00916,2026-07-27,United States,Germany,Ocean,Chemicals,Pending Review,49222.47,757.9,18.0,18,True,0.075,SUP-044
+SHP-00917,2026-07-15,United States,Mexico,Road,Automotive Parts,Cleared,5087.05,62.6,14.0,15,True,0.075,SUP-037
+SHP-00918,2026-08-03,Poland,United States,Ocean,Automotive Parts,Cleared,9630.91,2289.29,9.0,21,True,0.125,SUP-020
+SHP-00919,2026-10-11,Germany,United States,Road,Electronics,Cleared,10397.94,95.79,7.0,4,True,0.1,SUP-074
+SHP-00920,2026-06-10,China,India,Air,Electronics,Cleared,11177.87,241.53,2.0,3,True,0.075,SUP-066
+SHP-00921,2026-07-19,Mexico,Poland,Ocean,Chemicals,Cleared,7677.61,65.42,3.0,4,True,0.075,SUP-044
+SHP-00922,2026-08-12,China,Mexico,Ocean,Electronics,Cleared,7078.13,230.81,5.0,8,True,0.075,SUP-001
+SHP-00923,2026-08-06,United States,China,Road,Automotive Parts,Cleared,6537.33,193.69,17.0,17,True,0.05,SUP-014
+SHP-00924,2026-05-01,Germany,China,Air,Packaging,Documentation Hold,3679.03,49.92,14.0,14,False,0.1,SUP-018
+SHP-00925,2026-06-16,Germany,Poland,Road,Packaging,Cleared,7916.39,3736.21,10.0,9,True,0.025,SUP-073
+SHP-00926,2026-08-20,Mexico,Germany,Road,Chemicals,Cleared,33669.54,134.92,17.0,19,True,0.1,SUP-031
+SHP-00927,2026-08-28,United States,Sweden,Road,Chemicals,Cleared,16799.08,135.04,5.0,8,True,0.125,SUP-004
+SHP-00928,2026-09-05,Sweden,China,Rail,Packaging,Cleared,7772.37,583.49,6.0,5,True,0.05,SUP-044
+SHP-00929,2026-10-21,Sweden,India,Road,Electronics,Pending Review,12424.87,1358.66,9.0,9,True,0.05,SUP-072
+SHP-00930,2026-08-25,China,Sweden,Rail,Automotive Parts,Cleared,2867.51,682.96,20.0,25,True,0.05,SUP-043
+SHP-00931,2026-08-08,United States,Poland,Road,Chemicals,Cleared,4810.54,66.61,14.0,11,True,0.1,SUP-034
+SHP-00932,2026-06-24,China,Mexico,Ocean,Electronics,Cleared,13435.72,274.21,19.0,19,True,0.025,SUP-014
+SHP-00933,2026-07-01,Germany,United States,Air,Chemicals,Cleared,21249.57,33.74,6.0,7,True,0.05,SUP-066
+SHP-00934,2026-09-21,China,Sweden,Ocean,Chemicals,Cleared,3117.43,545.5,18.0,18,True,0.075,SUP-008
+SHP-00935,2026-07-19,United States,India,Ocean,Electronics,Cleared,3979.65,43.16,3.0,3,True,0.1,SUP-071
+SHP-00936,2026-09-01,Mexico,China,Ocean,Machinery,Cleared,38336.95,99.17,6.0,6,True,0.025,SUP-017
+SHP-00937,2026-05-18,Germany,United States,Rail,Electronics,Cleared,6514.74,220.7,12.0,11,True,0.0,SUP-011
+SHP-00938,2026-05-19,Germany,India,Air,Chemicals,Cleared,28278.52,345.5,3.0,4,True,0.075,SUP-027
+SHP-00939,2026-06-03,United States,India,Road,Chemicals,Cleared,7156.88,170.56,19.0,21,True,0.075,SUP-001
+SHP-00940,2026-05-31,United States,Sweden,Road,Electronics,Cleared,7400.13,1011.39,19.0,20,True,0.1,SUP-002
+SHP-00941,2026-08-13,China,India,Ocean,Electronics,Cleared,4630.1,456.34,12.0,11,True,0.0,SUP-014
+SHP-00942,2026-08-18,Sweden,Mexico,Air,Packaging,Cleared,13375.39,421.88,8.0,11,True,0.0,SUP-052
+SHP-00943,2026-08-04,Mexico,India,Air,Machinery,Cleared,19036.45,64.75,3.0,2,True,0.05,SUP-062
+SHP-00944,2026-06-17,United States,China,Air,Automotive Parts,Pending Review,2490.52,1211.2,14.0,16,True,0.075,SUP-019
+SHP-00945,2026-08-07,India,Sweden,Road,Chemicals,Cleared,4448.92,99.18,12.0,12,True,0.0,SUP-049
+SHP-00946,2026-05-17,India,United States,Ocean,Packaging,Cleared,13066.63,1258.33,17.0,20,True,0.025,SUP-027
+SHP-00947,2026-07-20,Mexico,Germany,Ocean,Chemicals,Pending Review,5376.99,1672.7,14.0,14,True,0.05,SUP-033
+SHP-00948,2026-05-23,India,Mexico,Ocean,Electronics,Cleared,3946.65,369.69,4.0,3,True,0.025,SUP-026
+SHP-00949,2026-05-09,Mexico,Poland,Ocean,Machinery,Pending Review,14159.07,621.42,4.0,4,True,0.1,SUP-067
+SHP-00950,2026-05-25,Germany,Poland,Ocean,Electronics,Cleared,15335.65,10.15,17.0,15,True,0.0,SUP-039
+SHP-00951,2026-05-16,India,Sweden,Air,Automotive Parts,Cleared,4096.16,182.18,5.0,5,True,0.125,SUP-038
+SHP-00952,2026-07-21,Sweden,India,Rail,Electronics,Documentation Hold,7190.47,666.58,20.0,22,False,0.025,SUP-065
+SHP-00953,2026-08-02,China,Poland,Road,Machinery,Documentation Hold,2149.08,558.08,4.0,7,False,0.05,SUP-050
+SHP-00954,2026-08-13,Sweden,United States,Ocean,Machinery,Cleared,2804.11,65.38,16.0,15,True,0.125,SUP-012
+SHP-00955,2026-07-14,Poland,China,Ocean,Electronics,Pending Review,6671.1,165.05,21.0,26,True,0.075,SUP-015
+SHP-00956,2026-05-27,China,United States,Air,Packaging,Cleared,6165.32,17.53,10.0,13,True,0.125,SUP-026
+SHP-00957,2026-04-29,Sweden,United States,Road,Machinery,Documentation Hold,2639.0,334.62,3.0,6,False,0.0,SUP-008
+SHP-00958,2026-09-01,China,India,Air,Packaging,Documentation Hold,3266.33,33.67,19.0,21,False,0.1,SUP-052
+SHP-00959,2026-10-19,Mexico,Poland,Road,Electronics,Cleared,2427.73,685.73,5.0,7,True,0.0,SUP-038
+SHP-00960,2026-06-15,Sweden,India,Rail,Packaging,Cleared,8837.87,722.51,12.0,13,True,0.075,SUP-004
+SHP-00961,2026-06-01,Germany,Poland,Road,Machinery,Pending Review,1127.22,137.78,21.0,22,True,0.025,SUP-031
+SHP-00962,2026-06-21,Sweden,Germany,Road,Packaging,Cleared,2540.61,372.89,16.0,21,True,0.1,SUP-063
+SHP-00963,2026-06-03,Poland,Sweden,Air,Chemicals,Cleared,1232.13,178.2,2.0,1,True,0.0,SUP-069
+SHP-00964,2026-06-05,Germany,Mexico,Road,Chemicals,Cleared,8571.24,282.0,18.0,18,True,0.125,SUP-073
+SHP-00965,2026-07-24,Mexico,India,Road,Electronics,Cleared,1296.83,70.3,5.0,3,True,0.05,SUP-070
+SHP-00966,2026-09-14,China,Mexico,Air,Electronics,Cleared,6167.01,412.61,16.0,21,True,0.075,SUP-046
+SHP-00967,2026-09-01,China,Sweden,Air,Electronics,Cleared,24187.6,42.9,14.0,14,True,0.075,SUP-070
+SHP-00968,2026-10-15,Sweden,Poland,Road,Packaging,Cleared,24894.92,35.52,7.0,9,True,0.0,SUP-072
+SHP-00969,2026-06-29,Mexico,India,Air,Chemicals,Cleared,1293.33,195.99,10.0,13,True,0.025,SUP-048
+SHP-00970,2026-07-23,India,Mexico,Air,Automotive Parts,Pending Review,7736.06,179.25,4.0,16,True,0.1,SUP-031
+SHP-00971,2026-07-03,Sweden,India,Ocean,Chemicals,Pending Review,2589.9,290.7,21.0,20,False,0.125,SUP-073
+SHP-00972,2026-05-03,Sweden,Poland,Road,Packaging,Cleared,2177.29,115.64,6.0,9,True,0.125,SUP-032
+SHP-00973,2026-07-04,United States,Mexico,Road,Chemicals,Cleared,5450.98,1459.27,8.0,13,True,0.075,SUP-013
+SHP-00974,2026-06-11,United States,Poland,Rail,Electronics,Cleared,17052.42,259.98,12.0,10,True,0.025,SUP-008
+SHP-00975,2026-07-21,Germany,India,Air,Machinery,Cleared,9993.7,279.47,15.0,17,True,0.05,SUP-043
+SHP-00976,2026-05-24,Germany,Poland,Road,Chemicals,Cleared,3268.64,269.68,12.0,12,True,0.05,SUP-003
+SHP-00977,2026-09-06,India,Germany,Ocean,Chemicals,Cleared,10930.13,603.6,12.0,13,True,0.05,SUP-009
+SHP-00978,2026-09-24,China,United States,Road,Machinery,Cleared,891.45,393.87,13.0,14,True,0.05,SUP-019
+SHP-00979,2026-10-15,Sweden,China,Ocean,Electronics,Cleared,3165.28,344.47,19.0,19,True,0.125,SUP-040
+SHP-00980,2026-05-11,United States,India,Ocean,Machinery,Cleared,2980.04,462.19,9.0,8,True,0.05,SUP-036
+SHP-00981,2026-05-17,China,India,Rail,Automotive Parts,Cleared,6416.14,35.71,18.0,17,True,0.0,SUP-039
+SHP-00982,2026-10-16,China,Germany,Rail,Automotive Parts,Cleared,5052.29,37.08,17.0,16,True,0.1,SUP-039
+SHP-00983,2026-09-25,United States,China,Road,Automotive Parts,Cleared,5322.77,205.19,21.0,22,True,0.075,SUP-075
+SHP-00984,2026-08-09,China,India,Ocean,Electronics,Cleared,5174.45,181.69,20.0,20,True,0.05,SUP-017
+SHP-00985,2026-06-22,China,India,Road,Electronics,Cleared,6118.34,395.37,17.0,17,True,0.075,SUP-036
+SHP-00986,2026-07-28,China,Sweden,Air,Electronics,Cleared,9500.61,225.88,6.0,8,True,0.125,SUP-046
+SHP-00987,2026-07-31,China,Sweden,Air,Packaging,Cleared,6815.34,396.18,17.0,19,True,0.125,SUP-021
+SHP-00988,2026-09-25,Sweden,Germany,Road,Machinery,Cleared,4714.04,63.71,16.0,17,True,0.1,SUP-014
+SHP-00989,2026-07-30,Germany,United States,Road,Machinery,Pending Review,8446.32,219.04,7.0,12,False,0.075,SUP-004
+SHP-00990,2026-04-30,Poland,China,Road,Machinery,Documentation Hold,12115.07,57.91,15.0,15,False,0.0,SUP-025
+SHP-00991,2026-08-29,Sweden,India,Road,Machinery,Documentation Hold,3742.01,325.99,7.0,10,False,0.075,SUP-020
+SHP-00992,2026-09-12,United States,Sweden,Road,Electronics,Cleared,5707.34,33.84,12.0,10,True,0.1,SUP-015
+SHP-00993,2026-06-18,Germany,Sweden,Rail,Machinery,Cleared,16116.85,313.66,17.0,19,True,0.125,SUP-021
+SHP-00994,2026-05-16,United States,Germany,Air,Machinery,Cleared,2351.13,50.96,5.0,17,True,0.1,SUP-053
+SHP-00995,2026-05-21,United States,China,Ocean,Chemicals,Pending Review,27833.53,150.88,8.0,11,True,0.125,SUP-063
+SHP-00996,2026-09-24,China,Poland,Ocean,Packaging,Pending Review,1923.15,541.82,17.0,18,True,0.075,SUP-039
+SHP-00997,2026-07-15,United States,Sweden,Ocean,Machinery,Cleared,4475.8,277.93,11.0,12,True,0.0,SUP-005
+SHP-00998,2026-07-30,Sweden,Mexico,Road,Automotive Parts,Cleared,2676.7,42.71,21.0,21,True,0.05,SUP-056
+SHP-00999,2026-10-15,Mexico,United States,Ocean,Machinery,Cleared,38551.02,113.02,2.0,4,True,0.025,SUP-012
+SHP-01000,2026-05-07,United States,Germany,Ocean,Electronics,Cleared,3913.36,49.33,16.0,18,True,0.125,SUP-005
+SHP-01001,2026-06-02,Poland,Sweden,Ocean,Packaging,Pending Review,3921.72,40.66,18.0,30,True,0.1,SUP-043
+SHP-01002,2026-09-22,Poland,India,Rail,Automotive Parts,Cleared,4380.26,249.05,20.0,20,True,0.05,SUP-032
+SHP-01003,2026-08-01,United States,India,Air,Automotive Parts,Cleared,6511.09,387.73,5.0,3,True,0.05,SUP-024
+SHP-01004,2026-04-30,Mexico,Sweden,Air,Electronics,Cleared,4540.65,343.99,21.0,22,True,0.0,SUP-073
+SHP-01005,2026-08-30,India,United States,Ocean,Packaging,Cleared,5361.75,404.49,9.0,8,True,0.0,SUP-007
+SHP-01006,2026-05-20,Mexico,Poland,Air,Electronics,Cleared,298.92,218.78,9.0,9,True,0.025,SUP-005
+SHP-01007,2026-09-13,Poland,India,Ocean,Packaging,Cleared,6301.77,168.45,9.0,9,True,0.025,SUP-045
+SHP-01008,2026-09-16,United States,Poland,Road,Chemicals,Pending Review,6094.46,75.71,14.0,16,True,0.025,SUP-032
+SHP-01009,2026-09-21,Poland,Germany,Road,Automotive Parts,Cleared,14512.76,142.58,15.0,14,True,0.125,SUP-061
+SHP-01010,2026-07-18,United States,India,Air,Electronics,Cleared,18264.27,59.07,11.0,10,True,0.1,SUP-004
+SHP-01011,2026-06-13,Germany,China,Road,Chemicals,Cleared,5117.64,95.09,3.0,1,True,0.075,SUP-032
+SHP-01012,2026-10-01,Poland,India,Rail,Electronics,Cleared,12013.6,242.0,21.0,24,True,0.025,SUP-011
+SHP-01013,2026-08-04,Germany,China,Road,Automotive Parts,Pending Review,2353.52,196.8,6.0,8,False,0.125,SUP-004
+SHP-01014,2026-08-18,Sweden,India,Ocean,Automotive Parts,Pending Review,11524.62,4744.44,3.0,1,True,0.075,SUP-035
+SHP-01015,2026-05-20,United States,India,Road,Chemicals,Cleared,3690.05,57.64,13.0,10,True,0.075,SUP-056
+SHP-01016,2026-08-16,Poland,Sweden,Rail,Electronics,Cleared,2192.96,195.37,10.0,11,True,0.05,SUP-012
+SHP-01017,2026-08-08,Sweden,United States,Road,Electronics,Cleared,5126.86,53.32,14.0,14,True,0.075,SUP-064
+SHP-01018,2026-06-17,United States,Mexico,Road,Machinery,Cleared,19739.99,150.24,19.0,20,True,0.125,SUP-039
+SHP-01019,2026-09-11,India,Sweden,Road,Machinery,Cleared,7001.33,156.48,3.0,3,True,0.1,SUP-037
+SHP-01020,2026-05-20,India,Germany,Air,Chemicals,Pending Review,21418.6,515.37,7.0,12,True,0.05,SUP-070
+SHP-01021,2026-09-02,India,Mexico,Rail,Automotive Parts,Cleared,3176.63,141.22,12.0,12,True,0.1,SUP-025
+SHP-01022,2026-10-16,India,Germany,Rail,Electronics,Cleared,14627.72,182.85,17.0,19,True,0.125,SUP-016
+SHP-01023,2026-08-06,Mexico,India,Road,Machinery,Cleared,3448.39,143.98,14.0,12,True,0.025,SUP-059
+SHP-01024,2026-05-14,Poland,Sweden,Air,Chemicals,Pending Review,7270.13,54.54,9.0,17,True,0.125,SUP-009
+SHP-01025,2026-08-03,Poland,Sweden,Road,Chemicals,Inspection,7216.9,115.34,14.0,22,True,0.075,SUP-066
+SHP-01026,2026-07-30,India,China,Air,Electronics,Documentation Hold,10532.99,151.12,21.0,23,False,0.025,SUP-062
+SHP-01027,2026-08-03,India,Mexico,Air,Machinery,Cleared,7428.87,238.37,11.0,11,True,0.125,SUP-074
+SHP-01028,2026-06-14,Germany,Mexico,Road,Machinery,Cleared,3202.52,387.2,19.0,19,True,0.1,SUP-035
+SHP-01029,2026-08-16,United States,Sweden,Air,Machinery,Cleared,12686.08,175.11,17.0,20,True,0.05,SUP-047
+SHP-01030,2026-06-12,Sweden,Mexico,Ocean,Machinery,Cleared,26157.94,172.06,8.0,10,True,0.025,SUP-067
+SHP-01031,2026-08-04,United States,China,Road,Chemicals,Cleared,3654.69,39.61,6.0,6,True,0.125,SUP-010
+SHP-01032,2026-08-11,Germany,India,Road,Automotive Parts,Pending Review,1261.49,379.83,17.0,17,True,0.1,SUP-023
+SHP-01033,2026-08-20,Poland,Mexico,Road,Automotive Parts,Cleared,9176.69,110.4,6.0,6,True,0.0,SUP-036
+SHP-01034,2026-09-16,Sweden,India,Road,Electronics,Cleared,4530.09,467.37,8.0,11,True,0.075,SUP-048
+SHP-01035,2026-10-01,India,China,Road,Machinery,Cleared,5369.89,825.87,6.0,8,True,0.0,SUP-051
+SHP-01036,2026-09-12,Poland,India,Air,Packaging,Cleared,9631.08,183.48,14.0,15,True,0.025,SUP-070
+SHP-01037,2026-09-16,Mexico,Germany,Road,Chemicals,Cleared,4072.72,79.57,7.0,8,True,0.075,SUP-037
+SHP-01038,2026-09-29,India,Germany,Ocean,Chemicals,Cleared,4776.56,217.74,15.0,15,True,0.025,SUP-013
+SHP-01039,2026-06-08,United States,India,Ocean,Electronics,Cleared,5513.19,313.78,20.0,20,True,0.075,SUP-015
+SHP-01040,2026-06-17,Poland,Mexico,Rail,Electronics,Cleared,20937.37,161.5,18.0,16,True,0.05,SUP-061
+SHP-01041,2026-07-30,China,Germany,Ocean,Electronics,Cleared,6158.32,125.96,20.0,23,True,0.075,SUP-035
+SHP-01042,2026-07-18,Poland,China,Road,Automotive Parts,Cleared,2099.97,388.98,2.0,2,True,0.1,SUP-048
+SHP-01043,2026-08-30,Sweden,United States,Road,Electronics,Cleared,2172.22,364.15,11.0,11,True,0.0,SUP-043
+SHP-01044,2026-04-27,Sweden,India,Road,Packaging,Documentation Hold,6757.08,156.6,6.0,6,False,0.1,SUP-061
+SHP-01045,2026-05-21,China,India,Rail,Machinery,Cleared,2298.44,42.35,20.0,20,True,0.025,SUP-017
+SHP-01046,2026-09-07,Germany,Poland,Rail,Automotive Parts,Cleared,1590.88,349.46,16.0,17,True,0.0,SUP-013
+SHP-01047,2026-09-20,Germany,China,Road,Electronics,Cleared,10303.16,102.79,8.0,8,True,0.05,SUP-056
+SHP-01048,2026-06-19,China,Germany,Road,Machinery,Cleared,10741.0,274.33,13.0,11,True,0.025,SUP-033
+SHP-01049,2026-06-20,China,Germany,Air,Chemicals,Cleared,4390.0,257.54,14.0,16,True,0.025,SUP-062
+SHP-01050,2026-08-05,India,Sweden,Road,Packaging,Cleared,7704.89,33.48,11.0,11,True,0.05,SUP-010
+SHP-01051,2026-07-20,United States,India,Rail,Packaging,Documentation Hold,7043.8,240.11,11.0,11,False,0.125,SUP-021
+SHP-01052,2026-05-26,Sweden,United States,Road,Machinery,Cleared,10017.18,370.38,3.0,3,True,0.075,SUP-073
+SHP-01053,2026-07-25,United States,Germany,Road,Packaging,Cleared,10037.04,418.7,11.0,14,True,0.1,SUP-064
+SHP-01054,2026-09-20,Mexico,United States,Road,Automotive Parts,Cleared,655.29,248.98,8.0,8,True,0.0,SUP-005
+SHP-01055,2026-09-04,India,Sweden,Road,Machinery,Cleared,4893.07,30.66,18.0,20,True,0.0,SUP-062
+SHP-01056,2026-09-20,Mexico,China,Road,Machinery,Cleared,9322.8,794.0,19.0,24,True,0.05,SUP-005
+SHP-01057,2026-08-19,United States,Poland,Ocean,Packaging,Cleared,4234.89,333.96,17.0,19,True,0.1,SUP-010
+SHP-01058,2026-09-30,Poland,China,Road,Chemicals,Documentation Hold,6190.51,66.47,2.0,2,False,0.125,SUP-068
+SHP-01059,2026-06-09,Sweden,India,Air,Machinery,Cleared,11362.74,100.71,18.0,20,True,0.0,SUP-010
+SHP-01060,2026-05-04,Sweden,Mexico,Road,Automotive Parts,Cleared,6430.36,279.0,9.0,9,True,0.05,SUP-023
+SHP-01061,2026-05-16,Poland,India,Road,Chemicals,Documentation Hold,21627.73,436.93,10.0,10,False,0.05,SUP-011
+SHP-01062,2026-10-21,China,Mexico,Road,Chemicals,Cleared,15645.5,135.92,20.0,21,True,0.1,SUP-045
+SHP-01063,2026-08-19,Germany,India,Road,Packaging,Cleared,5427.43,505.49,19.0,19,True,0.025,SUP-005
+SHP-01064,2026-06-09,China,United States,Road,Electronics,Pending Review,5072.86,36.86,3.0,2,True,0.05,SUP-022
+SHP-01065,2026-09-26,Poland,India,Road,Automotive Parts,Cleared,532.31,78.06,9.0,9,True,0.125,SUP-025
+SHP-01066,2026-06-20,Sweden,India,Ocean,Machinery,Cleared,4548.14,28.1,16.0,15,True,0.05,SUP-049
+SHP-01067,2026-08-11,Mexico,China,Ocean,Chemicals,Cleared,1900.21,90.25,12.0,12,True,0.1,SUP-038
+SHP-01068,2026-06-09,China,Poland,Rail,Machinery,Cleared,7244.84,1000.32,7.0,8,True,0.075,SUP-015
+SHP-01069,2026-05-13,Sweden,India,Road,Automotive Parts,Pending Review,6835.88,1733.33,12.0,17,False,0.075,SUP-035
+SHP-01070,2026-06-13,India,Mexico,Ocean,Packaging,Cleared,10845.19,279.94,19.0,17,True,0.025,SUP-035
+SHP-01071,2026-06-06,China,Sweden,Ocean,Electronics,Pending Review,19676.3,116.93,6.0,7,True,0.125,SUP-027
+SHP-01072,2026-08-03,Germany,Sweden,Road,Machinery,Cleared,5870.36,177.39,16.0,16,True,0.025,SUP-041
+SHP-01073,2026-04-29,Poland,Sweden,Road,Electronics,Cleared,41704.06,355.43,16.0,13,True,0.125,SUP-025
+SHP-01074,2026-06-08,United States,India,Air,Chemicals,Cleared,7314.28,46.39,19.0,19,True,0.125,SUP-026
+SHP-01075,2026-08-06,United States,Germany,Ocean,Automotive Parts,Cleared,1971.04,124.9,7.0,6,True,0.075,SUP-059
+SHP-01076,2026-07-05,Germany,Sweden,Air,Electronics,Cleared,3722.83,929.73,6.0,6,True,0.125,SUP-019
+SHP-01077,2026-08-18,China,Germany,Road,Machinery,Cleared,4372.83,77.81,12.0,12,True,0.1,SUP-025
+SHP-01078,2026-08-22,Germany,India,Rail,Automotive Parts,Cleared,9929.92,104.69,12.0,12,True,0.1,SUP-011
+SHP-01079,2026-10-16,Sweden,India,Road,Automotive Parts,Cleared,2683.39,224.35,10.0,11,True,0.0,SUP-053
+SHP-01080,2026-09-23,Poland,China,Rail,Electronics,Cleared,4659.77,293.87,17.0,14,True,0.0,SUP-053
+SHP-01081,2026-06-06,Mexico,Poland,Ocean,Electronics,Pending Review,5234.97,118.51,17.0,16,True,0.0,SUP-051
+SHP-01082,2026-08-28,Mexico,Sweden,Ocean,Electronics,Cleared,4101.46,239.12,6.0,5,True,0.0,SUP-013
+SHP-01083,2026-08-16,Mexico,Sweden,Ocean,Chemicals,Pending Review,11964.55,406.64,17.0,18,True,0.125,SUP-034
+SHP-01084,2026-08-10,United States,Poland,Road,Electronics,Cleared,10353.95,1574.12,6.0,6,True,0.025,SUP-022
+SHP-01085,2026-09-16,Germany,China,Ocean,Electronics,Cleared,16180.82,195.15,10.0,11,True,0.0,SUP-058
+SHP-01086,2026-05-22,Poland,India,Ocean,Packaging,Documentation Hold,4530.69,212.45,2.0,2,False,0.125,SUP-026
+SHP-01087,2026-07-02,Poland,Mexico,Ocean,Chemicals,Cleared,16683.05,1019.89,8.0,5,True,0.025,SUP-032
+SHP-01088,2026-09-19,Mexico,Poland,Road,Packaging,Inspection,1882.96,127.85,21.0,26,True,0.1,SUP-035
+SHP-01089,2026-10-03,China,Mexico,Road,Machinery,Cleared,1844.33,58.89,10.0,9,True,0.125,SUP-058
+SHP-01090,2026-05-02,India,Sweden,Road,Chemicals,Cleared,2139.37,284.36,16.0,15,True,0.075,SUP-053
+SHP-01091,2026-07-19,United States,Sweden,Air,Chemicals,Cleared,6050.1,649.48,4.0,3,True,0.125,SUP-062
+SHP-01092,2026-06-12,United States,Sweden,Air,Electronics,Inspection,16680.93,317.68,14.0,22,True,0.125,SUP-033
+SHP-01093,2026-05-26,Poland,Germany,Ocean,Automotive Parts,Cleared,3598.16,200.94,9.0,10,True,0.0,SUP-062
+SHP-01094,2026-05-06,Sweden,Poland,Ocean,Electronics,Cleared,4003.05,52.02,16.0,17,True,0.0,SUP-066
+SHP-01095,2026-07-31,Sweden,Poland,Ocean,Packaging,Cleared,4995.96,208.85,20.0,32,True,0.05,SUP-040
+SHP-01096,2026-08-24,India,Poland,Road,Chemicals,Cleared,9768.36,759.88,12.0,11,True,0.075,SUP-051
+SHP-01097,2026-07-30,Poland,Germany,Air,Automotive Parts,Cleared,3999.88,64.45,4.0,12,True,0.1,SUP-069
+SHP-01098,2026-07-01,Poland,United States,Road,Machinery,Cleared,3814.62,173.34,11.0,11,True,0.025,SUP-063
+SHP-01099,2026-09-11,India,Germany,Road,Electronics,Cleared,1912.97,150.28,4.0,5,True,0.025,SUP-021
+SHP-01100,2026-08-21,United States,Mexico,Road,Packaging,Cleared,3692.42,110.2,10.0,10,True,0.025,SUP-054
+SHP-01101,2026-10-06,United States,Germany,Road,Electronics,Cleared,16331.36,283.7,3.0,3,True,0.025,SUP-034
+SHP-01102,2026-06-27,United States,Germany,Road,Packaging,Cleared,6485.26,344.92,14.0,19,True,0.125,SUP-012
+SHP-01103,2026-06-08,Mexico,United States,Air,Chemicals,Cleared,3200.7,341.32,8.0,7,True,0.05,SUP-028
+SHP-01104,2026-07-17,Germany,Mexico,Road,Machinery,Pending Review,17166.63,83.36,6.0,18,True,0.125,SUP-074
+SHP-01105,2026-07-26,Sweden,Mexico,Road,Automotive Parts,Cleared,3650.31,42.69,2.0,2,True,0.0,SUP-072
+SHP-01106,2026-07-17,Germany,India,Road,Packaging,Cleared,20069.61,287.84,19.0,20,True,0.0,SUP-059
+SHP-01107,2026-09-22,Germany,Sweden,Ocean,Electronics,Cleared,19792.65,133.5,18.0,26,True,0.1,SUP-075
+SHP-01108,2026-05-04,Mexico,Germany,Air,Packaging,Cleared,6295.62,1391.74,18.0,16,True,0.025,SUP-043
+SHP-01109,2026-07-29,Mexico,Sweden,Road,Packaging,Documentation Hold,1679.47,1457.55,3.0,8,False,0.0,SUP-057
+SHP-01110,2026-07-12,India,United States,Road,Electronics,Cleared,42027.34,1620.82,8.0,9,True,0.075,SUP-013
+SHP-01111,2026-06-02,China,Germany,Rail,Automotive Parts,Cleared,8343.05,86.48,21.0,23,True,0.0,SUP-023
+SHP-01112,2026-08-19,Germany,India,Air,Packaging,Cleared,4558.26,391.26,13.0,12,True,0.0,SUP-013
+SHP-01113,2026-09-17,Germany,United States,Ocean,Electronics,Cleared,13530.6,528.98,4.0,5,True,0.05,SUP-071
+SHP-01114,2026-08-02,Sweden,India,Air,Automotive Parts,Cleared,10904.79,472.65,4.0,6,True,0.075,SUP-047
+SHP-01115,2026-05-11,Germany,India,Ocean,Electronics,Cleared,18293.44,155.34,7.0,7,True,0.075,SUP-070
+SHP-01116,2026-05-09,United States,India,Ocean,Automotive Parts,Cleared,3418.66,795.65,21.0,20,True,0.075,SUP-032
+SHP-01117,2026-07-10,Mexico,India,Road,Machinery,Cleared,7869.13,221.51,5.0,5,True,0.0,SUP-031
+SHP-01118,2026-08-24,China,United States,Ocean,Machinery,Pending Review,2190.77,251.67,20.0,23,True,0.025,SUP-051
+SHP-01119,2026-06-21,Poland,India,Road,Electronics,Cleared,10576.44,47.57,15.0,13,True,0.05,SUP-043
+SHP-01120,2026-06-20,United States,Poland,Ocean,Electronics,Cleared,5886.97,421.9,20.0,22,True,0.025,SUP-028
+SHP-01121,2026-09-27,India,Germany,Road,Packaging,Documentation Hold,7622.49,170.65,18.0,30,False,0.075,SUP-024
+SHP-01122,2026-04-28,India,Germany,Road,Machinery,Cleared,5300.75,352.4,8.0,5,True,0.025,SUP-039
+SHP-01123,2026-05-10,Germany,Sweden,Rail,Chemicals,Cleared,4849.64,280.09,18.0,17,True,0.075,SUP-006
+SHP-01124,2026-05-24,Germany,China,Ocean,Packaging,Cleared,2869.82,265.32,5.0,7,True,0.125,SUP-015
+SHP-01125,2026-10-20,Poland,India,Road,Chemicals,Documentation Hold,11753.02,211.51,7.0,5,False,0.075,SUP-004
+SHP-01126,2026-07-24,Poland,India,Rail,Machinery,Cleared,21295.44,486.19,6.0,7,True,0.05,SUP-012
+SHP-01127,2026-05-24,Poland,Sweden,Road,Chemicals,Cleared,3739.97,181.47,4.0,6,True,0.05,SUP-015
+SHP-01128,2026-06-20,China,Germany,Air,Machinery,Pending Review,9609.52,51.67,3.0,4,True,0.075,SUP-006
+SHP-01129,2026-10-17,United States,India,Ocean,Electronics,Cleared,8667.68,391.1,5.0,5,True,0.1,SUP-005
+SHP-01130,2026-08-28,China,Germany,Road,Chemicals,Cleared,6044.37,98.59,4.0,6,True,0.025,SUP-062
+SHP-01131,2026-06-05,Sweden,India,Air,Machinery,Cleared,1639.91,58.89,9.0,10,True,0.0,SUP-014
+SHP-01132,2026-06-08,China,Mexico,Ocean,Automotive Parts,Cleared,1985.53,79.66,3.0,3,True,0.1,SUP-042
+SHP-01133,2026-05-09,Poland,Germany,Road,Packaging,Cleared,3090.74,293.93,3.0,4,True,0.075,SUP-008
+SHP-01134,2026-09-12,Poland,India,Road,Chemicals,Pending Review,974.42,201.04,21.0,26,True,0.0,SUP-072
+SHP-01135,2026-05-20,China,United States,Road,Automotive Parts,Cleared,19867.21,26.24,3.0,5,True,0.075,SUP-018
+SHP-01136,2026-06-16,India,United States,Ocean,Machinery,Cleared,8205.4,150.86,3.0,3,True,0.0,SUP-057
+SHP-01137,2026-06-27,Poland,United States,Road,Machinery,Cleared,5851.97,712.82,2.0,2,True,0.075,SUP-049
+SHP-01138,2026-08-15,Sweden,Poland,Road,Packaging,Cleared,932.9,140.99,4.0,3,True,0.1,SUP-058
+SHP-01139,2026-08-13,Poland,India,Ocean,Packaging,Cleared,1273.74,187.64,12.0,12,True,0.0,SUP-048
+SHP-01140,2026-09-16,United States,India,Road,Chemicals,Cleared,5990.98,628.28,18.0,15,True,0.1,SUP-039
+SHP-01141,2026-06-18,Mexico,Sweden,Road,Electronics,Pending Review,32045.64,490.53,16.0,28,True,0.0,SUP-058
+SHP-01142,2026-07-04,Sweden,India,Ocean,Automotive Parts,Cleared,3314.8,615.08,13.0,13,True,0.025,SUP-062
+SHP-01143,2026-07-04,Mexico,United States,Ocean,Machinery,Cleared,12509.31,13.84,3.0,6,True,0.1,SUP-029
+SHP-01144,2026-05-04,Poland,India,Road,Automotive Parts,Cleared,3992.14,1253.28,17.0,16,True,0.05,SUP-071
+SHP-01145,2026-09-05,Sweden,China,Ocean,Chemicals,Cleared,6291.49,418.38,2.0,2,True,0.125,SUP-075
+SHP-01146,2026-07-31,United States,Germany,Ocean,Automotive Parts,Cleared,16856.33,2595.35,14.0,14,True,0.125,SUP-055
+SHP-01147,2026-07-20,United States,Sweden,Road,Chemicals,Cleared,4473.57,101.26,10.0,10,True,0.125,SUP-070
+SHP-01148,2026-10-22,Poland,India,Ocean,Packaging,Cleared,3338.95,37.96,19.0,22,True,0.0,SUP-008
+SHP-01149,2026-05-28,China,Germany,Ocean,Machinery,Cleared,20037.48,223.01,8.0,16,True,0.025,SUP-041
+SHP-01150,2026-10-17,Poland,United States,Air,Chemicals,Cleared,6239.93,168.11,14.0,17,True,0.025,SUP-049
+SHP-01151,2026-08-26,Sweden,United States,Air,Packaging,Pending Review,15176.82,425.67,10.0,9,True,0.075,SUP-070
+SHP-01152,2026-06-04,United States,Poland,Ocean,Electronics,Cleared,3352.76,648.67,12.0,14,True,0.05,SUP-010
+SHP-01153,2026-08-26,United States,Poland,Rail,Electronics,Cleared,19844.32,202.9,20.0,19,True,0.1,SUP-061
+SHP-01154,2026-09-09,Mexico,United States,Air,Machinery,Cleared,7574.81,174.04,16.0,21,True,0.025,SUP-006
+SHP-01155,2026-06-30,Sweden,India,Ocean,Electronics,Pending Review,8686.88,373.43,10.0,11,True,0.025,SUP-027
+SHP-01156,2026-06-27,China,Sweden,Ocean,Packaging,Pending Review,6713.56,171.34,10.0,10,True,0.075,SUP-052
+SHP-01157,2026-09-23,India,Sweden,Ocean,Chemicals,Cleared,3906.3,157.59,16.0,15,True,0.075,SUP-022
+SHP-01158,2026-05-24,Poland,Germany,Rail,Machinery,Cleared,5994.33,624.61,8.0,5,True,0.1,SUP-063
+SHP-01159,2026-04-28,Sweden,China,Road,Electronics,Cleared,4120.78,780.38,5.0,5,True,0.025,SUP-070
+SHP-01160,2026-08-23,Sweden,Germany,Road,Chemicals,Cleared,13569.96,654.56,11.0,16,True,0.075,SUP-012
+SHP-01161,2026-10-06,China,India,Air,Automotive Parts,Cleared,5051.3,187.12,3.0,6,True,0.125,SUP-020
+SHP-01162,2026-07-25,United States,Poland,Road,Chemicals,Pending Review,1682.39,26.06,5.0,13,True,0.075,SUP-006
+SHP-01163,2026-05-20,Poland,Mexico,Air,Machinery,Cleared,1440.13,190.91,10.0,9,True,0.125,SUP-054
+SHP-01164,2026-08-01,United States,India,Ocean,Machinery,Pending Review,1383.39,103.75,17.0,18,True,0.05,SUP-067
+SHP-01165,2026-06-10,United States,Poland,Rail,Electronics,Pending Review,10150.47,194.47,17.0,17,True,0.0,SUP-046
+SHP-01166,2026-09-21,India,Germany,Road,Electronics,Pending Review,2255.71,113.17,7.0,8,True,0.1,SUP-010
+SHP-01167,2026-08-14,India,Sweden,Ocean,Packaging,Cleared,7747.09,216.86,10.0,10,True,0.05,SUP-014
+SHP-01168,2026-06-25,Sweden,Germany,Road,Machinery,Cleared,6741.84,78.31,5.0,5,True,0.0,SUP-003
+SHP-01169,2026-08-16,Mexico,Germany,Air,Machinery,Cleared,5681.65,61.52,17.0,18,True,0.0,SUP-037
+SHP-01170,2026-08-24,Mexico,Germany,Road,Machinery,Cleared,8713.64,751.97,6.0,5,True,0.025,SUP-055
+SHP-01171,2026-08-26,China,India,Air,Packaging,Documentation Hold,6867.52,83.96,17.0,17,False,0.025,SUP-012
+SHP-01172,2026-06-30,China,Poland,Air,Packaging,Pending Review,599.88,221.48,18.0,19,True,0.1,SUP-064
+SHP-01173,2026-08-06,Sweden,India,Ocean,Electronics,Documentation Hold,4559.27,575.08,15.0,14,False,0.075,SUP-019
+SHP-01174,2026-05-03,Germany,Sweden,Ocean,Chemicals,Inspection,8615.67,552.42,8.0,13,True,0.025,SUP-039
+SHP-01175,2026-07-07,India,China,Road,Packaging,Cleared,24203.21,490.22,21.0,22,True,0.0,SUP-051
+SHP-01176,2026-07-03,Sweden,Mexico,Road,Packaging,Cleared,25172.04,299.73,15.0,18,True,0.0,SUP-041
+SHP-01177,2026-07-31,Sweden,Poland,Road,Chemicals,Cleared,1884.32,456.69,14.0,15,True,0.125,SUP-036
+SHP-01178,2026-10-14,Germany,India,Rail,Electronics,Pending Review,4459.24,874.01,19.0,21,False,0.05,SUP-026
+SHP-01179,2026-10-14,Germany,Mexico,Rail,Packaging,Cleared,1585.73,338.67,19.0,21,True,0.0,SUP-033
+SHP-01180,2026-07-21,India,China,Road,Machinery,Cleared,21848.82,35.26,3.0,6,True,0.1,SUP-018
+SHP-01181,2026-08-20,China,Germany,Road,Machinery,Cleared,14199.01,130.51,19.0,20,True,0.125,SUP-023
+SHP-01182,2026-05-15,Mexico,United States,Road,Chemicals,Cleared,8086.89,444.24,17.0,17,True,0.0,SUP-057
+SHP-01183,2026-07-21,China,Mexico,Ocean,Automotive Parts,Cleared,6913.15,118.26,6.0,5,True,0.125,SUP-067
+SHP-01184,2026-08-27,United States,Sweden,Road,Electronics,Cleared,19409.86,1118.91,8.0,9,True,0.1,SUP-064
+SHP-01185,2026-08-26,Sweden,Germany,Road,Packaging,Documentation Hold,16808.27,207.85,17.0,15,False,0.025,SUP-025
+SHP-01186,2026-10-16,Sweden,Mexico,Road,Automotive Parts,Cleared,16064.03,241.11,6.0,6,True,0.1,SUP-025
+SHP-01187,2026-07-18,India,Mexico,Road,Packaging,Cleared,8850.05,681.81,11.0,9,True,0.05,SUP-005
+SHP-01188,2026-10-06,China,Mexico,Road,Electronics,Cleared,4461.12,184.41,15.0,16,True,0.075,SUP-021
+SHP-01189,2026-10-19,United States,Mexico,Road,Packaging,Cleared,11522.49,264.09,15.0,14,True,0.0,SUP-044
+SHP-01190,2026-08-06,India,Mexico,Ocean,Chemicals,Pending Review,12011.69,544.09,20.0,21,True,0.025,SUP-021
+SHP-01191,2026-05-12,Sweden,United States,Air,Automotive Parts,Cleared,5104.91,50.79,4.0,7,True,0.1,SUP-056
+SHP-01192,2026-07-02,Germany,India,Road,Chemicals,Cleared,4453.47,166.45,7.0,10,True,0.1,SUP-004
+SHP-01193,2026-09-10,Germany,China,Air,Automotive Parts,Pending Review,15729.86,507.33,21.0,21,True,0.0,SUP-031
+SHP-01194,2026-08-08,China,Germany,Air,Machinery,Cleared,24698.52,236.42,13.0,14,True,0.025,SUP-022
+SHP-01195,2026-10-11,United States,India,Ocean,Packaging,Cleared,3174.84,960.38,6.0,7,True,0.075,SUP-038
+SHP-01196,2026-09-19,China,India,Rail,Packaging,Cleared,4798.84,45.79,7.0,7,True,0.125,SUP-002
+SHP-01197,2026-05-07,China,Mexico,Road,Automotive Parts,Cleared,8089.26,40.85,8.0,9,True,0.1,SUP-032
+SHP-01198,2026-09-28,Mexico,Sweden,Ocean,Machinery,Cleared,9078.0,478.04,13.0,13,True,0.1,SUP-060
+SHP-01199,2026-06-29,Poland,Germany,Ocean,Automotive Parts,Cleared,3850.62,526.27,7.0,15,True,0.05,SUP-065
+SHP-01200,2026-09-20,China,Poland,Ocean,Machinery,Cleared,29762.14,182.5,14.0,13,True,0.0,SUP-020
