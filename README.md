@@ -32,7 +32,7 @@ streamlit run dashboard.py
 
 ## Expected source CSV schema
 
-If you provide your own CSV using the dashboard uploader or replace `data/raw/shipments_raw.csv`, include these columns:
+include these columns:
 
 | Column | Meaning |
 |---|---|
